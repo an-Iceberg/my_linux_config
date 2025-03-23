@@ -1,0 +1,86 @@
+# cursors
+Bibata-Modern
+Chroma
+Layan
+
+# icons
+Amy Dark Icons
+Ardis circle fast mate
+Ardis Icon Theme circle
+Ardis Icon Theme square
+Ardis square fast mate
+Beauty-mint-dark
+Beauty-pink-dark
+Beauty-purple-dark
+BeautySolar
+Bee cells
+Besgnulinux-pink-dark
+Bubble (pink/purple/dark)
+Bubble-dark
+candy-icons
+Colloid-purple-dark
+cyberpunk-technotronic-filled-folders
+Delight dark purple/pink
+Dessert dark pink/purple
+Evolvere for mate dark panel
+Evolvere for mate orange dark
+Gears
+Icy Mist - Blue
+Ketsa-Dark-Icons
+Lovely-pink-dark
+Lyra-pink-dark
+Lyra-rose-dark
+Miya-dark
+NeonIcons
+Neon-Icons
+One UI 4 Dark
+Postage Stamps
+Postage Stamps classic
+Postage Stamps for black
+Postage Stamps new
+Retro Art -Black & Blue
+Reversal-pink-dark
+Rowaita-Pink-Dark
+Shiny buttons
+Shiny buttons mini
+Smaragd
+Super Nova - Pink
+Sweet-Purple-Filled
+Tela circle purple dark
+Tokyo Night-SE
+Uos-Dark
+Wasp
+
+# themes
+ChromeOS-Dark-UltraViolet-Rounded
+CyberHack
+E5150-Purple
+LAVA-Pink
+M3nt3X-TH3M3
+Shades-of-purple
+
+# notifications
+linepink
+Neon Knights Violet
+
+# window manager themes
+City XFCE ruby
+City XFCE violet
+City XFCE wine
+ColorTheme-Shadow
+CrystalSugar-Pink
+Dracula-pink-accent-slim-standard-buttons
+E5150-Purple
+Electronica XFCE
+Grass
+hacking_parrot_OS
+Lavanda-Dark
+Luna40
+Modern
+Neon_Knights_Violet
+retro-theme
+Shades-of-purple-standard-buttons
+simplewaita
+TrelliumRC3
+X-Aero Fuchsia
+

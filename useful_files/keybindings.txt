@@ -1,0 +1,19 @@
+# kitty
+win+h -> horizontal split
+win+v -> vertical split
+win+q -> quit split
+alt+c -> create tab
+alt+right -> move to right tab
+alt+left -> move to left tab
+ctrl+direction -> move between splits
+shift+direction -> resize splits
+ctrl+shift+direction -> move content of split around
+
+# NeoVim
+:Files -> search for files
+:Lines -> search for a line in files
+:vs -> vertical split
+:sp -> horizontal split
+alt+direction -> move between splits
+alt+shift+direction -> resize splits
+

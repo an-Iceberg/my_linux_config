@@ -1,0 +1,116 @@
+// If you'd like to override the default keybindings completely, be sure to change "keybinds" to "keybinds clear-defaults=true"
+keybinds clear-defaults=true {
+  // unbind "e"
+  // unbind "Ctrl j"
+  // unbind "j"
+  normal {
+    bind "Ctrl p" { SwitchToMode "pane"; }
+    bind "Ctrl t" { SwitchToMode "tab"; }
+    bind "Ctrl q" { Quit; }
+  }
+  pane {
+    bind "Enter" "Esc" { SwitchToMode "normal"; }
+
+    bind "d" "Down" { NewPane "Down"; }
+    bind "r" "Right" { NewPane "Right"; }
+
+    bind "F2" { SwitchToMode "renamepane"; }
+
+    bind "h" "Left" { MoveFocus "Left"; }
+    bind "j" "Down" { MoveFocus "Down"; }
+    bind "k" "Up" { MoveFocus "Up"; }
+    bind "l" "Right" { MoveFocus "Right"; }
+
+    bind "H" { MovePane "Left"; }
+    bind "J" { MovePane "Down"; }
+    bind "K" { MovePane "Up"; }
+    bind "L" { MovePane "Right"; }
+
+    bind "Alt h" "Alt Left" { Resize "Left"; }
+    bind "Alt j" "Alt Down" { Resize "Down"; }
+    bind "Alt k" "Alt Up" { Resize "Up"; }
+    bind "Alt l" "Alt Right" { Resize "Right"; }
+
+    bind "q" "x" { CloseFocus; }
+
+    bind "Ctrl q" { Quit; }
+  }
+  renamepane {
+    bind "Enter" { SwitchToMode "normal"; }
+    bind "Esc" { UndoRenamePane; SwitchToMode "normal"; }
+  }
+  tab {
+    bind "Enter" "Esc" { SwitchToMode "normal"; }
+
+    bind "n" "c" { NewTab; }
+
+    bind "F2" { SwitchToMode "renametab"; }
+
+    bind "h" "Left" { GoToPreviousTab; }
+    bind "l" "Right" { GoToNextTab; }
+
+    bind "1" { GoToTab 1; SwitchToMode "normal"; }
+    bind "2" { GoToTab 2; SwitchToMode "normal"; }
+    bind "3" { GoToTab 3; SwitchToMode "normal"; }
+    bind "4" { GoToTab 4; SwitchToMode "normal"; }
+    bind "5" { GoToTab 5; SwitchToMode "normal"; }
+    bind "6" { GoToTab 6; SwitchToMode "normal"; }
+    bind "7" { GoToTab 7; SwitchToMode "normal"; }
+    bind "8" { GoToTab 8; SwitchToMode "normal"; }
+    bind "9" { GoToTab 9; SwitchToMode "normal"; }
+
+    bind "q" "x" { CloseTab; }
+
+    bind "Ctrl q" { Quit; }
+  }
+  renametab {
+    bind "Enter" { SwitchToMode "normal"; }
+    bind "Esc" { UndoRenameTab; SwitchToMode "normal"; }
+  }
+}
+
+plugins {
+  tab-bar { path "tab-bar"; }
+  status-bar { path "status-bar"; }
+  strider { path "strider"; }
+  compact-bar { path "compact-bar"; }
+  session-manager { path "session-manager"; }
+}
+
+ui {
+  pane_frames {
+    rounded_corners true
+    // hide_session_name true
+  }
+}
+
+themes {
+  challenger_deep {
+    fg "#cbe3e7"
+    bg "#1b182c"
+    red "#ff8080"
+    green "#95ffa4"
+    yellow "#ffe9aa"
+    blue "#91ddff"
+    magenta "#c991e1"
+    orange "#ff8000"
+    cyan "#aaffe4"
+    black "#565575"
+    white "#cbe3e7"
+  }
+}
+
+on_force_close "quit"
+simplified_ui false
+// default_shell "fish"
+default_cwd "~"
+pane_frames true
+auto_layout false
+theme "dracula" // dracula, gruvbox-dark, challenger_deep
+default_layout "default" // compact, default
+default_mode "normal"
+mouse_mode true
+styled_underlines true
+copy_command "xclip -selection clipboard"
+copy_clipboard "primary"
+

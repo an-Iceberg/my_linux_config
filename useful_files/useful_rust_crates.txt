@@ -1,0 +1,78 @@
+# Useful Rustlang crates
+
+Benchmarking
+  cirterion
+
+Computation
+  arrayfire
+  autodiff
+  faer
+  gkquad
+  integraal
+  nalgebra
+  ndarray
+  nearly
+  reikna
+  russell_chk
+  russell_lab
+  russell_ode
+  russell_openblas
+  russell_sparse
+  russell_stat
+  russell_tensor
+  salva2d
+  salva3d
+  scirust
+  simba
+  statrs
+
+Database
+  diesel
+  sqlx
+
+Files
+  csv
+  simpleml
+  sml
+  whitespacesv
+  wsv
+
+Graphics
+  gfx
+
+GUI
+  catppuccin_egui
+  egui
+  gtk
+  gtk4
+  iced
+  rfd
+  tauri
+
+Game
+  bevy
+  egui-macroquad
+  macroquad
+  parry2d
+  parry3d
+  rapier2d
+  rapier3d
+
+Plotting
+  plotters
+  poloto
+
+Web
+  actix
+  maud
+
+Misc. dev tools
+  colored
+  dotenv
+  hashbrown
+  itertools
+  log
+  rand
+  rayon
+  regex
+  serde

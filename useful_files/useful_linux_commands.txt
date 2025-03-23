@@ -1,0 +1,27 @@
+work:
+  agg
+  asciinema
+  asciinema-edit
+  bat
+  btop
+  eza
+  find ~/.icons/ -maxdepth 1 -type d -exec gtk-update-icon-cache {} \; # Update all icon caches
+  iftop
+  lazygit
+  pacseek
+  paru -Qe | cut -f 1 -d " " > user_installed_packages.txt # Put all user installed packages into a text file
+  pcurses
+  pv
+  # ranger
+
+fun
+  aafire -driver slang | curses
+  asciiquarium
+  cbonsai -li
+  cmatrix -bamC magenta
+  neo-matrix -aDc purple
+  neofetch
+  pipes-rs
+  sl
+  uwufetch
+

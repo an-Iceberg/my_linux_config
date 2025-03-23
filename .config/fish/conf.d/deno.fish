@@ -1,0 +1,1 @@
+source "/home/sandra/.deno/env.fish"
