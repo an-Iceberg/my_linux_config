@@ -16,7 +16,7 @@
 !.config/fastfetch
 .config/fastfetch/*
 !.config/fastfetch/.editorconfig
-!.config/fastfetch/.config.jsonc
+!.config/fastfetch/config.jsonc
 !.config/fish/
 !.config/joshuto/
 !.config/kitty/
