@@ -3,6 +3,8 @@
 !.gitignore
 !.config
 .config/*
+!.config/alacritty
+.config/alacritty/*
 !.config/alacritty/alacritty.toml
 !.config/alacritty/dracula.toml
 !.config/alacritty/midnight_haze.toml
@@ -11,6 +13,8 @@
 !.config/bat/
 !.config/btop/
 !.config/espanso/
+!.config/fastfetch
+.config/fastfetch/*
 !.config/fastfetch/.editorconfig
 !.config/fastfetch/.config.jsonc
 !.config/fish/
