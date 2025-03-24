@@ -29,7 +29,10 @@
 !.config/zellij/
 !.config/starship.toml
 
-# !.fonts/
+!.fonts
+.fonts/*
+!.fonts/Varela**
+!.fonts/Iosevka**
 # .fonts/.uuid
 # !.fonts.zip
 
@@ -41,6 +44,7 @@
 !.local/share/konsole/
 !.local/share/icons/
 !.local/share/plasma/
+!.local/share/qalculate/
 .local/share/plasma/*
 !.local/share/plasma/desktoptheme/
 
