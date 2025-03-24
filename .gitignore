@@ -31,12 +31,18 @@
 
 # !.fonts/
 # .fonts/.uuid
+# !.fonts.zip
 
 !.local
 .local/*
 !.local/share
 .local/share/*
 !.local/share/kxmlgui5/
+!.local/share/konsole/
+!.local/share/icons/
+!.local/share/plasma/
+.local/share/plasma/*
+!.local/share/plasma/desktoptheme/
 
 !useful_files/
 
