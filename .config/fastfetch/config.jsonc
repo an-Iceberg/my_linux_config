@@ -74,13 +74,13 @@
       "key": "├─ Disk",
       "format": "/{name} ({filesystem}) {size-percentage-bar} {size-used} / {size-total}"
     },
-    // {
-    //   "type": "battery",
-    //   // "key": "├ Battery"
-    // },
+    {
+      "type": "battery",
+      "key": "├─ Battery"
+    },
     // {
     //   "type": "poweradapter",
-    //   // "key": "├ Poweradapter"
+    //   // "key": "├─ Poweradapter"
     // },
     {
       "type": "wifi",
@@ -256,6 +256,12 @@
       "key": "╰─ VSCode",
       "text": "code --version | cut -d'\n' -f1",
       "format": "code {}"
+    },
+    {
+      "type": "command",
+      "key": "╰─ NeoVim",
+      "text": "nvim --version | cut -d'\n' -f1",
+      "format": "{}"
     },
     {
       // Separator of categories

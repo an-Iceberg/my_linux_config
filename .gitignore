@@ -47,6 +47,10 @@
 !.local/share/kxmlgui5/
 !.local/share/konsole/
 !.local/share/icons/
+.local/share/icons/*
+!.local/share/icons/BeautyLine
+!.local/share/icons/BeautySolar
+!.local/share/icons/candy-icons
 !.local/share/plasma/
 !.local/share/qalculate/
 .local/share/plasma/*
