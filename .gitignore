@@ -33,6 +33,11 @@
 !.config/zellij/
 !.config/starship.toml
 
+!.config/breezerc
+!.config/dolphinrc
+!.config/okularrc
+!.config/user-dirs.dirs
+
 !.fonts
 .fonts/*
 !.fonts/Varela**

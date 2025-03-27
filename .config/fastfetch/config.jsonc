@@ -1,5 +1,5 @@
 {
-  // Characters: ─│╭╮╰╯├┤┬╟ ═║╔╗╚╝╠╣╤╒
+  // Characters: ─│╭╮╰╯├┤┬╟ ═║╔╗╚╝╠╣╤╒ ⟨⟩
   "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
   "logo": {
     // "color": {
@@ -22,7 +22,7 @@
     "key": {
       "paddingLeft": 0,
       "type": "string",
-      "width": 17
+      "width": 20
     },
     "color": {
       "keys": "magenta",
@@ -32,7 +32,7 @@
       "type": 2,
       "ndigits": 1
     },
-    "separator": " »",
+    "separator": " ⮞", // ⮚⮞
     "brightColor": true
   },
   // Todo: colors
@@ -49,34 +49,34 @@
     {
       // Separator of categories
       "type": "custom",
-      "format": "{#magenta}╭────────{#cyan} {#3}Hardware 🩷 🪻 🦋 🌸 🎀 💮 ✨" // ✨ 💮 🎀 🌸 🦋 🪻 💙 🩷 🤍 🩷 💙 🪻🦋 🌸 🎀 💮
+      "format": "{#magenta}╭────────[ {#cyan}{#3}Hardware{#0}{#magenta} ] 🩷 🪻 🦋 🌸 🎀 💮 ✨" // ✨ 💮 🎀 🌸 🦋 🪻 💙 🩷 🤍 🩷 💙 🪻🦋 🌸 🎀 💮
     },
     {
       "type": "board",
-      "key": "├─ Board"
+      "key": "├─[ Board ]"
     },
     {
       "type": "cpu",
-      "key": "├─ CPU"
+      "key": "├─[ CPU ]"
     },
     {
       "type": "gpu",
-      "key": "├─ GPU"
+      "key": "├─[ GPU ]"
     },
     {
       "type": "memory",
-      "key": "├─ RAM",
+      "key": "├─[ RAM ]",
       "format": "{percentage-bar} {used} / {total}"
     },
     // "disk", // I like this better b/c name is in the key
     {
       "type": "disk",
-      "key": "├─ Disk",
+      "key": "├─[ Disk ]",
       "format": "/{name} ({filesystem}) {size-percentage-bar} {size-used} / {size-total}"
     },
     {
       "type": "battery",
-      "key": "├─ Battery"
+      "key": "├─[ Battery ]"
     },
     // {
     //   "type": "poweradapter",
@@ -84,182 +84,183 @@
     // },
     {
       "type": "wifi",
-      "key": "├─ WiFi"
+      "key": "├─[ WiFi ]"
     },
     {
       "type": "display",
-      "key": "├─ Monitor",
+      "key": "├─[ Monitor ]",
       "format": "{inch}\" @ {refresh-rate} Hz ({width}×{height})"
     },
     {
       "type": "chassis",
-      "key": "╰─ Chassis"
+      "key": "╰─[ Chassis ]"
     },
+    // ⟨⟩
     {
       // Separator of categories
       "type": "custom",
-      "format": "{#magenta}╭────────{#cyan} {#3}Software 🩷 🪻 🦋 🌸 🎀 💮 ✨"
+      "format": "{#magenta}╭────────⟨ {#cyan}{#3}Software{#0}{#magenta} ⟩ 🩷 🪻 🦋 🌸 🎀 💮 ✨"
     },
     {
       "type": "bios",
-      "key": "├─ Bios",
+      "key": "├─⟨ Bios ⟩",
       "format": "{type} {version} ({release})"
     },
     {
       "type": "bootmgr",
-      "key": "├─ Boot Mgr."
+      "key": "├─⟨ Boot Mgr. ⟩"
     },
     {
       "type": "initsystem",
-      "key": "├─ Init Sys."
+      "key": "├─⟨ Init Sys. ⟩"
     },
     {
       "type": "kernel",
-      "key": "├─ Kernel"
+      "key": "├─⟨ Kernel ⟩"
     },
     {
       "type": "os",
-      "key": "├─ OS"
+      "key": "├─⟨ OS ⟩"
     },
     {
       "type": "packages",
-      "key": "├─ Packages"
+      "key": "├─⟨ Packages ⟩"
     },
     {
       "type": "swap",
-      "key": "├─ Swap"
+      "key": "├─⟨ Swap ⟩"
     },
     {
       "type": "vulkan",
-      "key": "├─ Vulkan"
+      "key": "├─⟨ Vulkan ⟩"
     },
     {
       "type": "opengl",
-      "key": "├─ OpenGL"
+      "key": "├─⟨ OpenGL ⟩"
     },
     {
       "type": "opencl",
-      "key": "├─ OpenCL"
+      "key": "├─⟨ OpenCL ⟩"
     },
     {
       "type": "locale",
-      "key": "╰─ Locale"
+      "key": "╰─⟨ Locale ⟩"
     },
     {
       // Separator of categories
       "type": "custom",
-      "format": "{#magenta}╭────────{#cyan} {#3}Themes & Customisation 🩷 🪻 🦋 🌸 🎀 💮 ✨"
+      "format": "{#magenta}╭────────( {#cyan}{#3}Themes & Customisation{#0}{#magenta} ) 🩷 🪻 🦋 🌸 🎀 💮 ✨"
     },
     {
       "type": "terminal",
-      "key": "├─ Terminal"
+      "key": "├( Terminal )"
     },
     {
       "type": "terminalfont",
-      "key": "├─ Term. Font"
+      "key": "├( Term. Font )"
     },
     {
       "type": "shell",
-      "key": "├─ Shell"
+      "key": "├( Shell )"
     },
     {
       "type": "editor",
-      "key": "├─ Editor"
+      "key": "├( Editor )"
     },
     {
       "type": "lm",
-      "key": "├─ LM"
+      "key": "├( LM )"
     },
     {
       "type": "de",
-      "key": "├─ DE"
+      "key": "├( DE )"
     },
     {
       "type": "wm",
-      "key": "├─ WM"
+      "key": "├( WM )"
     },
     {
       "type": "theme",
-      "key": "├─ Theme"
+      "key": "├( Theme )"
     },
     {
       "type": "wmtheme",
-      "key": "├─ WM Theme"
+      "key": "├( WM Theme )"
     },
     {
       "type": "icons",
-      "key": "├─ Icons"
+      "key": "├( Icons )"
     },
     {
       "type": "cursor",
-      "key": "├─ Cursor"
+      "key": "├( Cursor )"
     },
     {
       "type": "font",
-      "key": "╰─ Font"
+      "key": "╰( Font )"
     },
     {
       // Separator of categories
       "type": "custom",
-      "format": "{#magenta}╭────────{#cyan} {#3}Development 🩷 🪻 🦋 🌸 🎀 💮 ✨"
+      "format": "{#magenta}╭────────{{ {#cyan}{#3}Development{#0}{#magenta} } 🩷 🪻 🦋 🌸 🎀 💮 ✨"
     },
     {
       "type": "command",
-      "key": "├─ Rust 🦀",
+      "key": "├{ Rust 🦀 }",
       "text": "cargo --version | cut -d' ' -f1,2",
       "format": "{}"
     },
     {
       "type": "command",
-      "key": "├─ Zig ⚡",
+      "key": "├{ Zig ⚡ }",
       "text": "zig version",
       "format": "zig {}"
     },
     {
       "type": "command",
-      "key": "├─ TypeScript",
+      "key": "├{ TypeScript }",
       "text": "deno --version | cut -d'\n' -f1 | cut -d' ' -f1,2",
       "format": "{}"
     },
     {
       "type": "command",
-      "key": "├─ Julia", // "key": "Julia 🔴🟢🟣",
+      "key": "├{ Julia }", // "key": "Julia 🔴🟢🟣",
       "text": "julia --version | cut -d' ' -f1,3",
       "format": "{}"
     },
     {
       "type": "command",
-      "key": "├─ GCC",
+      "key": "├{ GCC }",
       "text": "gcc --version | cut -d'\n' -f1 | cut -d' ' -f1,3",
       "format": "{}"
     },
     {
       "type": "command",
-      "key": "├─ Clang",
+      "key": "├{ Clang }",
       "text": "clang --version | cut -d'\n' -f1 | cut -d' ' -f1,3",
       "format": "{}"
     },
     {
       "type": "command",
-      "key": "├─ TCC",
+      "key": "├{ TCC }",
       "text": "tcc --version | cut -d' ' -f1,3",
       "format": "{}"
     },
     {
       "type": "command",
-      "key": "├─ Git",
+      "key": "├{ Git }",
       "text": "git --version | cut -d' ' -f1,3",
       "format": "{}"
     },
     {
       "type": "command",
-      "key": "╰─ VSCode",
+      "key": "├{ VSCode }",
       "text": "code --version | cut -d'\n' -f1",
       "format": "code {}"
     },
     {
       "type": "command",
-      "key": "╰─ NeoVim",
+      "key": "╰{ NeoVim }",
       "text": "nvim --version | cut -d'\n' -f1",
       "format": "{}"
     },
@@ -268,8 +269,14 @@
       "type": "custom",
       "format": "✨ 💮 🎀 🌸 🦋 🪻 💙 🩷 🤍 🩷 💙 🪻🦋 🌸 🎀 💮 ✨" // ✨ 💮 🎀 🌸 🦋 🪻 💙 🩷 🤍 🩷 💙 🪻🦋 🌸 🎀 💮 ✨
     },
-    "player",
-    "media",
+    {
+      "type": "player",
+      "key": "╭─ Media Player"
+    },
+    {
+      "type": "media",
+      "key": "╰─ Media"
+    },
     {
       "type": "colors",
       "symbol": "star"

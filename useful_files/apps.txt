@@ -1,17 +1,22 @@
+aalib # For aafire
 alacritty
+asciiquarium
 audacity
 btop
+cbonsai
 code
 cpu-x
 darktable
 discord
 discord_chat_exporter
+fastfetch
 filezilla
 fish
 git
 github-desktop-bin
 godot
 handbrake
+hyfetch
 isoimagewriter
 kdenlive
 keepassxc
@@ -24,6 +29,7 @@ nodejs
 npm
 nvim
 obs-studio
+pipes-rs
 piskel
 qalculate-qt
 qpwgraph

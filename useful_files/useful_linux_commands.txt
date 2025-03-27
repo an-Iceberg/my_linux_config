@@ -19,7 +19,7 @@ fun
   asciiquarium
   cbonsai -li
   cmatrix -bamC magenta
-  neo-matrix -aDc purple
+  neo-matrix -aDc pink
   neofetch
   pipes-rs
   sl

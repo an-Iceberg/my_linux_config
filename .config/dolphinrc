@@ -1,0 +1,30 @@
+MenuBar=Disabled
+
+[CompactMode]
+PreviewSize=16
+
+[General]
+Version=202
+ViewPropsTimestamp=2024,6,3,10,36,43.014
+
+[InformationPanel]
+dateFormat=ShortFormat
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=32
+
+[MainWindow]
+MenuBar=Disabled
+
+[MainWindow][Toolbar mainToolBar]
+ToolButtonStyle=IconOnly
+
+[PlacesPanel]
+IconSize=32
+
+[PreviewSettings]
+Plugins=kraorathumbnail,fontthumbnail,jpegthumbnail,windowsexethumbnail,ffmpegthumbs,djvuthumbnail,exrthumbnail,appimagethumbnail,imagethumbnail,ebookthumbnail,windowsimagethumbnail,svgthumbnail,mltpreview,directorythumbnail,opendocumentthumbnail,comicbookthumbnail,audiothumbnail,cursorthumbnail,avif,gdk-pixbuf-thumbnailer,heif,jxl,tiled
+
+[Toolbar mainToolBar]
+ToolButtonStyle=IconOnly

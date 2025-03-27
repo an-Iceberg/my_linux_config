@@ -41,7 +41,7 @@ shape = "Beam"
 size = 10.5
 
 [font.normal]
-family = "Iosevka Curly Slab"
+family = "Iosevka Term Slab NerdFont"
 style = "Regular"
 
 [mouse]
