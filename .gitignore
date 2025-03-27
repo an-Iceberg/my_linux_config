@@ -31,12 +31,13 @@
 !.config/tmux/
 !.config/wezterm/
 !.config/zellij/
-!.config/starship.toml
 
 !.config/breezerc
 !.config/dolphinrc
+!.config/hyfetch.json
 !.config/okularrc
 !.config/user-dirs.dirs
+!.config/starship.toml
 
 !.fonts
 .fonts/*
