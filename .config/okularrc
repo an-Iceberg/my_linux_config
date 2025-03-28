@@ -6,26 +6,26 @@ LockSidebar=true
 ShowSidebar=true
 
 [Recent Files]
-File1[$e]=$HOME/Documents/PDF_Documents/ZHAW/Noten_HS_2024_Andras_Marosi.pdf
-File10[$e]=$HOME/Documents/Steuern/Steuer_Jahr_2025/Diverse_20250306_1/Zinsabschluss.pdf
-File2[$e]=$HOME/Obsidian_vaults/ZHAW/FS_2025/CT2_Labs/lab_bus_cycles/CTP_BusZyklen.pdf
-File3[$e]=$HOME/Obsidian_vaults/ZHAW/FS_2025/CT2_Labs/lab_gpio/CTP_AnschlussIO_RemoteSetting.pdf
-File4[$e]=$HOME/Downloads/Diverse_20250306_1/KK_Zinsabschluss_P_800191064917_20250107211922490302149866872_20250106.pdf
-File5[$e]=$HOME/Downloads/Diverse_20250306_1/TAX_P_CH8209000000614203543_1103037619_0_2025010110291238.pdf
-File6[$e]=$HOME/Obsidian_vaults/ZHAW/FS_2025/CT2_Labs/lab_spi_1/CTP_SPI_Teil1.pdf
-File7[$e]=/run/media/sandra/E446-2160/2025_03_15/Schokoladenrolade_0001.pdf
-File8[$e]=/run/media/sandra/E446-2160/2025_03_15/Schokoladenrolade_0002.pdf
-File9[$e]=$HOME/Documents/Steuern/Steuer_Jahr_2025/Diverse_20250306_1/TAX_P_CH8209000000614203543_1103037619_0_2025010110291238.pdf
-Name1[$e]=Noten_HS_2024_Andras_Marosi.pdf
-Name10[$e]=Zinsabschluss.pdf
-Name2[$e]=CTP_BusZyklen.pdf
-Name3[$e]=CTP_AnschlussIO_RemoteSetting.pdf
-Name4[$e]=KK_Zinsabschluss_P_800191064917_20250107211922490302149866872_20250106.pdf
-Name5[$e]=TAX_P_CH8209000000614203543_1103037619_0_2025010110291238.pdf
-Name6[$e]=CTP_SPI_Teil1.pdf
-Name7[$e]=Schokoladenrolade_0001.pdf
-Name8[$e]=Schokoladenrolade_0002.pdf
-Name9[$e]=TAX_P_CH8209000000614203543_1103037619_0_2025010110291238.pdf
+File1[$e]=$HOME/Obsidian_vaults/ZHAW/FS_2025/CT2_Labs/lab_spi_1/CTP_SPI_Teil1.pdf
+File10[$e]=$HOME/Documents/Bewerbung/PDF/Dokumente/Assessmentzeugnis_Andras_Marosi.pdf
+File2[$e]=/run/media/sandra/E446-2160/2025_03_15/Schokoladenrolade_0001.pdf
+File3[$e]=/run/media/sandra/E446-2160/2025_03_15/Schokoladenrolade_0002.pdf
+File4[$e]=$HOME/Documents/Steuern/Steuer_Jahr_2025/Diverse_20250306_1/TAX_P_CH8209000000614203543_1103037619_0_2025010110291238.pdf
+File5[$e]=$HOME/Documents/Steuern/Steuer_Jahr_2025/Diverse_20250306_1/Zinsabschluss.pdf
+File6[$e]=$HOME/Documents/Bewerbung/Lebenslauf.pdf
+File7[$e]=$HOME/Documents/PDF_Documents/ZHAW/Noten_FS_2024_Andras_Marosi.pdf
+File8[$e]=$HOME/Documents/PDF_Documents/ZHAW/Noten_HS_2024_Andras_Marosi.pdf
+File9[$e]=$HOME/Documents/PDF_Documents/ZHAW/Andras_Marosi_Datenabschrift_HS_2024.pdf
+Name1[$e]=CTP_SPI_Teil1.pdf
+Name10[$e]=Assessmentzeugnis_Andras_Marosi.pdf
+Name2[$e]=Schokoladenrolade_0001.pdf
+Name3[$e]=Schokoladenrolade_0002.pdf
+Name4[$e]=TAX_P_CH8209000000614203543_1103037619_0_2025010110291238.pdf
+Name5[$e]=Zinsabschluss.pdf
+Name6[$e]=Lebenslauf.pdf
+Name7[$e]=Noten_FS_2024_Andras_Marosi.pdf
+Name8[$e]=Noten_HS_2024_Andras_Marosi.pdf
+Name9[$e]=Andras_Marosi_Datenabschrift_HS_2024.pdf
 
 [UiSettings]
 ColorScheme=
