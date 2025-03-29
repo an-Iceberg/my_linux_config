@@ -43,6 +43,7 @@ transmission-qt
 vlc
 whatsdesk-bin
 wine
+wl-clipboard
 youtube_downloader
 zellij
 
