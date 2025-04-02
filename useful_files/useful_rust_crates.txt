@@ -76,3 +76,4 @@ Misc. dev tools
   rayon
   regex
   serde
+

@@ -1,8 +1,8 @@
 [Appearance]
 BorderWhenActive=false
-ColorScheme=Dracula
+ColorScheme=DarkOneNuanced
 EmojiFont=Noto Color Emoji,11,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
-Font=IosevkaTermSlab Nerd Font Mono,10.5,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+Font=IosevkaTermSlab Nerd Font Mono,9.5,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 TabColor=255,0,255
 UseFontLineChararacters=false
 

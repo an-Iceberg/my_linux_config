@@ -18,6 +18,14 @@ matches:
     replace: "Blåhaj"
   - trigger: "BLAHAJ"
     replace: "BLÅHAJ"
+  - trigger: "!!"
+    replace: "‼"
+  - trigger: "??"
+    replace: "⁇"
+  - trigger: "?!"
+    replace: "⁈"
+  - trigger: "!?"
+    replace: "⁉"
 
   # NOTE: espanso uses YAML to define matches, so pay attention to the indentation!
 
@@ -54,9 +62,9 @@ matches:
   - trigger: ":fixtable"
     replace: "┬─┬ノ( º _ ºノ)"
 
-  - trigger: ":dash"
+  - trigger: ":bar"
     replace: "—"
-  - trigger: ":hyphen"
+  - trigger: ":dash"
     replace: "–"
 
   - trigger: "mfg"
