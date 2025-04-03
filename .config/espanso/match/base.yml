@@ -170,7 +170,7 @@ matches:
 
   - triggers:
     - ":dots"
-    - ":..."
+    - "..."
     replace: "…"
   - trigger: ":<<"
     replace: "«"
