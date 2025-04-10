@@ -26,5 +26,8 @@ IconSize=32
 [PreviewSettings]
 Plugins=kraorathumbnail,fontthumbnail,jpegthumbnail,windowsexethumbnail,ffmpegthumbs,djvuthumbnail,exrthumbnail,appimagethumbnail,imagethumbnail,ebookthumbnail,windowsimagethumbnail,svgthumbnail,mltpreview,directorythumbnail,opendocumentthumbnail,comicbookthumbnail,audiothumbnail,cursorthumbnail,avif,gdk-pixbuf-thumbnailer,heif,jxl,tiled
 
+[Search]
+Location=Everywhere
+
 [Toolbar mainToolBar]
 ToolButtonStyle=IconOnly

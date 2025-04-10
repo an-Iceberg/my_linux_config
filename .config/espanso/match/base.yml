@@ -67,6 +67,15 @@ matches:
   - trigger: ":dash"
     replace: "–"
 
+  - trigger: ":ae"
+    replace: "æ"
+  - trigger: ":oe"
+    replace: "œ"
+  - trigger: ":AE"
+    replace: "Æ"
+  - trigger: ":OE"
+    replace: "Œ"
+
   - trigger: "mfg"
     replace: "Mit freundlichen Grüssen"
   # - trigger: "yt "
