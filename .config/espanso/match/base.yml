@@ -26,6 +26,10 @@ matches:
     replace: "⁈"
   - trigger: "!?"
     replace: "⁉"
+  - trigger: ":ss"
+    replace: "ß"
+  - trigger: ":SS"
+    replace: "ẞ"
 
   # NOTE: espanso uses YAML to define matches, so pay attention to the indentation!
 
@@ -189,6 +193,10 @@ matches:
     replace: "› "
   - trigger: ":< "
     replace: "‹"
+  - trigger: ":>,"
+    replace: "›,"
+  - trigger: ":>."
+    replace: "›."
   - trigger: ":,,"
     replace: "„"
   - trigger: ":''"
