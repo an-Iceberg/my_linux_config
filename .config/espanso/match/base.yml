@@ -155,6 +155,12 @@ matches:
     - ":Xd"
     - ":XD"
     replace: "😆"
+  - triggers:
+    - ":xp"
+    - ":xP"
+    - ":Xp"
+    - ":XP"
+    replace: "😝"
   - trigger: ":+1"
     replace: "👍"
   - trigger: ":star"
