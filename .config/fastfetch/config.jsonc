@@ -154,51 +154,51 @@
     },
     {
       "type": "terminal",
-      "key": "├( {#38;5;171}Terminal{#magenta} )"
+      "key": "├─( {#38;5;171}Terminal{#magenta} )"
     },
     {
       "type": "terminalfont",
-      "key": "├( {#38;5;171}Term. Font{#magenta} )"
+      "key": "├─( {#38;5;171}Term. Font{#magenta} )"
     },
     {
       "type": "shell",
-      "key": "├( {#38;5;171}Shell{#magenta} )"
+      "key": "├─( {#38;5;171}Shell{#magenta} )"
     },
     {
       "type": "editor",
-      "key": "├( {#38;5;171}Editor{#magenta} )"
+      "key": "├─( {#38;5;171}Editor{#magenta} )"
     },
     {
       "type": "lm",
-      "key": "├( {#38;5;171}LM{#magenta} )"
+      "key": "├─( {#38;5;171}LM{#magenta} )"
     },
     {
       "type": "de",
-      "key": "├( {#38;5;171}DE{#magenta} )"
+      "key": "├─( {#38;5;171}DE{#magenta} )"
     },
     {
       "type": "wm",
-      "key": "├( {#38;5;171}WM{#magenta} )"
+      "key": "├─( {#38;5;171}WM{#magenta} )"
     },
     {
       "type": "theme",
-      "key": "├( {#38;5;171}Theme{#magenta} )"
+      "key": "├─( {#38;5;171}Theme{#magenta} )"
     },
     {
       "type": "wmtheme",
-      "key": "├( {#38;5;171}WM Theme{#magenta} )"
+      "key": "├─( {#38;5;171}WM Theme{#magenta} )"
     },
     {
       "type": "icons",
-      "key": "├( {#38;5;171}Icons{#magenta} )"
+      "key": "├─( {#38;5;171}Icons{#magenta} )"
     },
     {
       "type": "cursor",
-      "key": "├( {#38;5;171}Cursor{#magenta} )"
+      "key": "├─( {#38;5;171}Cursor{#magenta} )"
     },
     {
       "type": "font",
-      "key": "╰( {#38;5;171}Font{#magenta} )"
+      "key": "╰─( {#38;5;171}Font{#magenta} )"
     },
     {
       // Separator of categories
@@ -207,49 +207,49 @@
     },
     {
       "type": "command",
-      "key": "├{{ {#38;5;171}Rust 🦀{#magenta} }",
+      "key": "├─{{ {#38;5;171}Rust 🦀{#magenta} }",
       "text": "cargo --version | cut -d' ' -f1,2",
       "format": "{}"
     },
     {
       "type": "command",
-      "key": "├{{ {#38;5;171}Zig ⚡{#magenta} }",
+      "key": "├─{{ {#38;5;171}Zig ⚡{#magenta} }",
       "text": "zig version",
       "format": "zig {}"
     },
     {
       "type": "command",
-      "key": "├{{ {#38;5;171}TypeScript{#magenta} }",
+      "key": "├─{{ {#38;5;171}TypeScript{#magenta} }",
       "text": "deno --version | cut -d'\n' -f1 | cut -d' ' -f1,2",
       "format": "{}"
     },
     {
       "type": "command",
-      "key": "├{{ {#38;5;171}Julia{#magenta} }", // "key": "Julia 🔴🟢🟣",
+      "key": "├─{{ {#38;5;171}Julia{#magenta} }", // "key": "Julia 🔴🟢🟣",
       "text": "julia --version | cut -d' ' -f1,3",
       "format": "{}"
     },
     {
       "type": "command",
-      "key": "├{{ {#38;5;171}C/C++{#magenta} }",
+      "key": "├─{{ {#38;5;171}C/C++{#magenta} }",
       "text": " echo \"$(gcc --version | cut -d'\n' -f1 | cut -d' ' -f1,3), $(clang --version | cut -d'\n' -f1 | cut -d' ' -f1,3), $(tcc --version | cut -d' ' -f1,3)\"",
       "format": "{}"
     },
     {
       "type": "command",
-      "key": "├{{ {#38;5;171}Git{#magenta} }",
+      "key": "├─{{ {#38;5;171}Git{#magenta} }",
       "text": "git --version | cut -d' ' -f1,3",
       "format": "{}"
     },
     {
       "type": "command",
-      "key": "├{{ {#38;5;171}VSCode{#magenta} }",
+      "key": "├─{{ {#38;5;171}VSCode{#magenta} }",
       "text": "code --version | cut -d'\n' -f1",
       "format": "code {}"
     },
     {
       "type": "command",
-      "key": "╰{{ {#38;5;171}NeoVim{#magenta} }",
+      "key": "╰─{{ {#38;5;171}NeoVim{#magenta} }",
       "text": "nvim --version | cut -d'\n' -f1",
       "format": "{}"
     },
