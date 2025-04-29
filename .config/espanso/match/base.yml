@@ -231,6 +231,8 @@ matches:
   - trigger: ":sim "
     replace: "≈"
   - trigger: ":simeq"
+    replace: "≃"
+  - trigger: ":cong"
     replace: "≅"
   - trigger: ":partial"
     replace: "∂"

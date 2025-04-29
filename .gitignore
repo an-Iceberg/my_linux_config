@@ -38,6 +38,9 @@
 !.config/okularrc
 !.config/user-dirs.dirs
 !.config/starship.toml
+!.config/plasma-org.kde.plasma.desktop-appletsrc
+!.config/plasma.emojierrc
+!.config/plasma-localerc
 
 !.fonts
 .fonts/*
