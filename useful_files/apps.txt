@@ -29,6 +29,7 @@ nodejs
 npm
 nvim
 obs-studio
+obsidian
 pipes-rs
 piskel
 qalculate-qt

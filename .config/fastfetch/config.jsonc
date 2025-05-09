@@ -93,6 +93,14 @@
       "format": "{inch}\" @ {refresh-rate} Hz ({width}×{height})"
     },
     {
+      "type": "mouse",
+      "key": "├─[ {#38;5;171}Mouse{#magenta} ]"
+    },
+    {
+      "type": "keyboard",
+      "key": "├─[ {#38;5;171}Keyboard{#magenta} ]"
+    },
+    {
       "type": "chassis",
       "key": "╰─[ {#38;5;171}Chassis{#magenta} ]"
     },
