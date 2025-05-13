@@ -166,6 +166,8 @@ matches:
     replace: "😝"
   - trigger: ":+1"
     replace: "👍"
+  - trigger: ":-1"
+    replace: "👎"
   - trigger: ":star"
     replace: "🌟"
   - trigger: ":spark"
