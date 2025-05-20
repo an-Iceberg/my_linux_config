@@ -1,6 +1,8 @@
 /*
 
 !.gitignore
+!piantor_pro.vil
+
 !.config
 .config/*
 !.config/alacritty
