@@ -54,7 +54,8 @@
  <ToolBar name="sessionToolbar" noMerge="1">
   <text translationDomain="konsole">Session Toolbar</text>
   <index>1</index>
- </ToolBar>
+ <Action name="hamburger_menu"/>
+</ToolBar>
  <Menu name="session-popup-menu">
   <Action name="edit_copy_contextmenu"/>
   <Action name="edit_copy_contextmenu_in"/>
