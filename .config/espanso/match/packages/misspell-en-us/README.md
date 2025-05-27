@@ -1,6 +1,6 @@
-# misspell-en-uk
+# misspell-en-us
 
-misspell-en_UK is a espanso package which is replacing american english with british english.
+misspell-en_US is a espanso package which is replacing british english with american english.
 The package is based on [github.com/client9/misspell](https://github.com/client9/misspell).
 
 ## Installation
@@ -8,12 +8,12 @@ The package is based on [github.com/client9/misspell](https://github.com/client9
 Install the package with:
 
 ```
-espanso install misspell-en-uk
+espanso install misspell-en-us
 ```
 
 ## Usage
 
-Type `color` and see what's happening.
+Type `tyre` and see what's happening.
 
 ## License
 
