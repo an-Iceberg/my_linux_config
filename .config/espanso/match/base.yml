@@ -34,11 +34,20 @@ matches:
     replace: "ß"
   - trigger: ":SS"
     replace: "ẞ"
-
   - trigger: ":euro"
     replace: "€"
   - trigger: ":deg"
     replace: "°"
+  - trigger: ":worry"
+    replace: "ó.ò"
+  - trigger: ":angy"
+    replace: "ò.ó"
+  - triggers:
+    - "H2O"
+    - "h2O"
+    - "H2o"
+    - "h2o"
+    replace: "H₂O"
 
   # NOTE: espanso uses YAML to define matches, so pay attention to the indentation!
 
@@ -115,6 +124,8 @@ matches:
     replace: "ᵗʰ "
   # - trigger: "imgs "
   #   replace: "images "
+  # - trigger: "pics "
+  #   replace: "pictures "
   # - trigger: "ppl "
   #   replace: "people "
   # - trigger: "be4 "
@@ -126,7 +137,7 @@ matches:
   # - trigger: "alr "
   #   replace: "all right "
   # - trigger: "wym "
-  #   replace: "What do you mean?"
+  #   replace: "what do you mean "
   # - trigger: "idk "
   #   replace: "I don't know "
   # - trigger: "afaik "
