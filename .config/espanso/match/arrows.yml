@@ -1,0 +1,80 @@
+matches:
+  - trigger: ":left "
+    replace: "← "
+  - trigger: ":right "
+    replace: "→ "
+  - trigger: ":up "
+    replace: "↑ "
+  - trigger: ":down "
+    replace: "↓ "
+  - triggers:
+    - ":noleft "
+    - ":notleft "
+    replace: "↚ "
+  - triggers:
+    - ":noright "
+    - ":notrright "
+    replace: "↛ "
+  - triggers:
+    - ":leftright "
+    - ":rightleft "
+    replace: "↔ "
+  - triggers:
+    - ":updown "
+    - ":downup "
+    replace: "↕ "
+  - triggers:
+    - ":noleftright "
+    - ":notleftright "
+    replace: "↮ "
+
+  # Double arrows
+  - trigger: ":Left "
+    replace: "⇐ "
+  - trigger: ":Right "
+    replace: "⇒ "
+  - trigger: ":Up "
+    replace: "⇑ "
+  - trigger: ":Down "
+    replace: "⇓ "
+  - triggers:
+    - ":noLeft "
+    - ":notLeft "
+    replace: "⇍ "
+  - triggers:
+    - ":noRight "
+    - ":notRight "
+    replace: "⇏ "
+  - triggers:
+    - ":Leftright "
+    - ":LeftRight "
+    replace: "⇔ "
+  - triggers:
+    - ":Updown "
+    - ":UpDown "
+    - ":Downup "
+    - ":DownUp "
+    replace: "⇕ "
+  - triggers:
+    - ":notLeftright "
+    - ":notLeftRight "
+    - ":noLeftright "
+    - ":noLeftRight "
+    replace: "⇎ "
+
+  # Long arrows
+  - trigger: ":longleft "
+    replace: "⟵ "
+  - trigger: ":longright "
+    replace: "⟶ "
+  - trigger: ":longleftright "
+    replace: "⟷ "
+  - trigger: ":longLeft "
+    replace: "⟸ "
+  - trigger: ":longRight "
+    replace: "⟹ "
+  - trigger: ":longLeftRight "
+    replace: "⟺ "
+
+  - trigger: ":=>>"
+    replace: "➾"

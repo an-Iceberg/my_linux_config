@@ -1,0 +1,14 @@
+matches:
+  - trigger: ";ae"
+    replace: "æ"
+  - trigger: ";oe"
+    replace: "œ"
+  - trigger: ";AE"
+    replace: "Æ"
+  - trigger: ";OE"
+    replace: "Œ"
+
+  - trigger: ";ss"
+    replace: "ß"
+  - trigger: ";SS"
+    replace: "ẞ"
