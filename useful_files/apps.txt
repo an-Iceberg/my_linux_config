@@ -22,6 +22,7 @@ kdenlive
 keepassxc
 kmail
 libreoffice
+liquidctl
 lmms
 logseq-desktop-bin
 lutris
@@ -33,6 +34,7 @@ obs-studio
 obsidian
 pipes-rs
 piskel
+postgresql
 qalculate-qt
 qpwgraph
 reaper
@@ -43,6 +45,7 @@ steam
 teams
 tiled
 transmission-qt
+vial-appimage
 vlc
 whatsdesk-bin
 wine

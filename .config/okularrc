@@ -6,25 +6,25 @@ LockSidebar=true
 ShowSidebar=true
 
 [Recent Files]
-File1[$e]=$HOME/Obsidian_vaults/ZHAW/FS_2025/CT2_Labs/lab_memory_ROM/AT28C64B.pdf
-File10[$e]=$HOME/Documents/PDF_Documents/Skript_Numerik_HM12_Kapitel1-8.pdf
-File2[$e]=$HOME/Documents/PDF_Documents/Skript.pdf
-File3[$e]=$HOME/Obsidian_vaults/ZHAW/SkriptMND1.pdf
-File4[$e]=$HOME/Obsidian_vaults/ZHAW/SkriptMND2.pdf
-File5[$e]=$HOME/Obsidian_vaults/ZHAW/SkriptNumerik.pdf
+File1[$e]=$HOME/Documents/Bewerbung/PDF/Dokumente/Assessmentzeugnis_Andras_Marosi.pdf
+File10[$e]=$HOME/Obsidian_vaults/ZHAW/FS_2025/BSY/Tanenbaum A., Bos H. Modern Operating Systems Global 5ed 2023.pdf
+File2[$e]=$HOME/Documents/PDF_Documents/ZHAW/Andras_Marosi_Datenabschrift_FS_2024.pdf
+File3[$e]=$HOME/Documents/PDF_Documents/ZHAW/Andras_Marosi_Datenabschrift_HS_2024.pdf
+File4[$e]=$HOME/Documents/Bewerbung/PDF/Dokumente/Maturitätszeugnis.pdf
+File5[$e]=$HOME/Documents/PDF_Documents/Skript_Numerik_HM12_Kapitel1-8.pdf
 File6[$e]=$HOME/Obsidian_vaults/ZHAW/PREAN_Skript.pdf
 File7[$e]=$HOME/Obsidian_vaults/ZHAW/lecture-notes-without-solutions.pdf
-File8[$e]=$HOME/Obsidian_vaults/ZHAW/Curriculum_teilzeit_informatik.pdf
+File8[$e]=$HOME/Documents/Bewerbung/Motivationsschreiben.pdf
 File9[$e]=$HOME/Documents/Bewerbung/Lebenslauf.pdf
-Name1[$e]=AT28C64B.pdf
-Name10[$e]=Skript_Numerik_HM12_Kapitel1-8.pdf
-Name2[$e]=Skript.pdf
-Name3[$e]=SkriptMND1.pdf
-Name4[$e]=SkriptMND2.pdf
-Name5[$e]=SkriptNumerik.pdf
+Name1[$e]=Assessmentzeugnis_Andras_Marosi.pdf
+Name10[$e]=Tanenbaum A., Bos H. Modern Operating Systems Global 5ed 2023.pdf
+Name2[$e]=Andras_Marosi_Datenabschrift_FS_2024.pdf
+Name3[$e]=Andras_Marosi_Datenabschrift_HS_2024.pdf
+Name4[$e]=Maturitätszeugnis.pdf
+Name5[$e]=Skript_Numerik_HM12_Kapitel1-8.pdf
 Name6[$e]=PREAN_Skript.pdf
 Name7[$e]=lecture-notes-without-solutions.pdf
-Name8[$e]=Curriculum_teilzeit_informatik.pdf
+Name8[$e]=Motivationsschreiben.pdf
 Name9[$e]=Lebenslauf.pdf
 
 [UiSettings]

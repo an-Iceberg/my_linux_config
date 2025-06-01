@@ -23,8 +23,8 @@ plugin=org.kde.plasma.analogclock
 
 [Containments][1][Applets][26][Configuration]
 PreloadWeight=100
-popupHeight=408
-popupWidth=568
+popupHeight=412
+popupWidth=572
 
 [Containments][1][Applets][26][Configuration][ConfigDialog]
 DialogHeight=480
@@ -36,7 +36,7 @@ positions={"1920x1080":[]}
 [Containments][1][Wallpaper][org.kde.slideshow][General]
 Color=176,0,151
 FillMode=1
-Image=file:///home/sandra/Pictures/wallpapers/architecture178.jpg
+Image=file:///home/sandra/Pictures/wallpapers/nature1.jpeg
 SlideInterval=30
 SlidePaths=/usr/share/wallpapers/,/home/sandra/Pictures/wallpapers/
 
@@ -55,8 +55,8 @@ plugin=org.kde.plasma.kickoff
 
 [Containments][2][Applets][104][Configuration]
 PreloadWeight=100
-popupHeight=801
-popupWidth=858
+popupHeight=676
+popupWidth=973
 
 [Containments][2][Applets][104][Configuration][ConfigDialog]
 DialogHeight=540
@@ -99,8 +99,8 @@ plugin=org.kde.plasma.digitalclock
 
 [Containments][2][Applets][116][Configuration]
 PreloadWeight=100
-popupHeight=562
-popupWidth=672
+popupHeight=666
+popupWidth=776
 
 [Containments][2][Applets][116][Configuration][Agenda]
 showWeekNumbers=true
@@ -114,13 +114,6 @@ showWeekNumbers=true
 [Containments][2][Applets][116][Configuration][ConfigDialog]
 DialogHeight=540
 DialogWidth=720
-
-[Containments][2][Applets][117]
-immutability=1
-plugin=org.kde.plasma.quicklaunch
-
-[Containments][2][Applets][117][Configuration][General]
-launcherUrls=file:///usr/share/applications/org.kde.kronometer.desktop
 
 [Containments][2][Applets][21]
 immutability=1
@@ -153,8 +146,8 @@ plugin=org.kde.plasma.timer
 
 [Containments][2][Applets][60][Configuration]
 PreloadWeight=100
-popupHeight=184
-popupWidth=568
+popupHeight=200
+popupWidth=584
 
 [Containments][2][Applets][60][Configuration][ConfigDialog]
 DialogHeight=540
@@ -163,7 +156,7 @@ DialogWidth=720
 [Containments][2][Applets][60][Configuration][General]
 predefinedTimers=7260
 running=7260
-savedAt=2025,4,29,21,20,55.32
+savedAt=2025,6,1,17,32,57.687
 seconds=7260
 showProgressBar=true
 
@@ -190,7 +183,7 @@ DialogWidth=720
 
 [Containments][2][Applets][79][Configuration][General]
 defaultFormat=#rrggbb
-history=#b00097,#e30613,#e93a9a,#a82e80,#331744,#e31587,#ef7311,#341d56,#341d56
+history=#ed9eff,#58bc49,#1a5d59,#1a2b2f,#a17225,#be8738,#1e3038,#372d34,#3974b6
 
 [Containments][2][Applets][83]
 immutability=1
@@ -204,7 +197,7 @@ plugin=org.kde.plasma.quicklaunch
 launcherUrls=file:///usr/share/applications/org.kde.plasma.emojier.desktop
 
 [Containments][2][General]
-AppletOrder=104;116;21;57;58;117;60;79;99;113;83;7
+AppletOrder=104;116;21;57;58;60;79;99;113;83;7
 
 [Containments][22]
 ItemGeometries-1920x1080=
@@ -223,14 +216,14 @@ positions={"1920x1080":[]}
 [Containments][22][Wallpaper][org.kde.slideshow][General]
 Color=176,0,151
 FillMode=1
-Image=file:///home/sandra/Pictures/wallpapers/city45.jpeg
+Image=file:///home/sandra/Pictures/wallpapers/city74.jpeg
 SlideInterval=30
 SlidePaths=/usr/share/wallpapers/,/home/sandra/Pictures/wallpapers/
 
 [Containments][23]
-ItemGeometries-1280x720=Applet-102:0,320,368,400,0;Applet-100:0,0,240,320,0;Applet-71:512.355,-0.532368,448,544,0;Applet-72:960,368,320,352,0;Applet-101:960,0,320,368,0;
+ItemGeometries-1280x720=Applet-100:0,0,240,320,0;Applet-102:0,320,368,400,0;Applet-71:512,0,448,544,0;Applet-101:960,0,320,368,0;Applet-72:960,368,320,352,0;
 ItemGeometries-1920x1080=Applet-100:0,0,240,320,0;Applet-71:832,0,448,544,0;Applet-101:1600,0,320,368,0;Applet-102:0,686.712,368,384,0;Applet-72:1600,734.712,320,336,0;
-ItemGeometriesHorizontal=Applet-100:0,0,240,320,0;Applet-71:832,0,448,544,0;Applet-101:1600,0,320,368,0;Applet-102:0,686.712,368,384,0;Applet-72:1600,734.712,320,336,0;
+ItemGeometriesHorizontal=Applet-100:0,0,240,320,0;Applet-102:0,320,368,400,0;Applet-71:512,0,448,544,0;Applet-101:960,0,320,368,0;Applet-72:960,368,320,352,0;
 activityId=8877b9dd-8477-41ca-b958-394ea5a41621
 formfactor=0
 immutability=1
@@ -475,7 +468,7 @@ positions={"1280x720":[],"1920x1080":[]}
 [Containments][23][Wallpaper][org.kde.slideshow][General]
 Color=176,0,151
 FillMode=1
-Image=file:///home/sandra/Pictures/wallpapers/abstract121.jpg
+Image=file:///home/sandra/Pictures/wallpapers/train27.jpeg
 SlideInterval=30
 SlidePaths=/usr/share/wallpapers/,/home/sandra/Pictures/wallpapers/
 
@@ -494,7 +487,7 @@ positions={"1280x720":[]}
 [Containments][24][Wallpaper][org.kde.slideshow][General]
 Color=176,0,151
 FillMode=1
-Image=file:///home/sandra/Pictures/wallpapers/architecture96.jpg
+Image=file:///home/sandra/Pictures/wallpapers/abstract113.jpg
 SlideInterval=30
 SlidePaths=/usr/share/wallpapers/,/home/sandra/Pictures/wallpapers/
 
@@ -505,8 +498,8 @@ immutability=1
 lastScreen=0
 location=6
 plugin=org.kde.plasma.private.systemtray
-popupHeight=556
-popupWidth=672
+popupHeight=490
+popupWidth=553
 wallpaperplugin=org.kde.image
 
 [Containments][8][Applets][10]
@@ -521,7 +514,7 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][8][Applets][11][Configuration]
-PreloadWeight=85
+PreloadWeight=100
 
 [Containments][8][Applets][11][Configuration][General]
 migrated=true
@@ -589,7 +582,7 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][8][Applets][23][Configuration]
-PreloadWeight=65
+PreloadWeight=70
 
 [Containments][8][Applets][24]
 immutability=1
@@ -604,6 +597,9 @@ plugin=org.kde.plasma.battery
 
 [Containments][8][Applets][25][Configuration]
 PreloadWeight=100
+
+[Containments][8][Applets][25][Configuration][General]
+showPercentage=true
 
 [Containments][8][Applets][53]
 immutability=1
