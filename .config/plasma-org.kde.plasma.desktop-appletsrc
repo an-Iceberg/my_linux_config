@@ -7,8 +7,8 @@ RightButton;NoModifier=org.kde.contextmenu
 [Containments][1]
 ItemGeometries-1024x768=
 ItemGeometries-1280x720=Applet-71:0,0,640,512,0;Applet-101:640,240,304,256,0;Applet-102:640,208,400,384,0;Applet-72:640,0,272,240,0;Applet-100:640,240,304,336,0;Applet-26:912,224,368,128,0;Applet-110:800,0,464,416,0;
-ItemGeometries-1920x1080=Applet-26:1360,560,512,512,0;
-ItemGeometriesHorizontal=Applet-26:1360,560,512,512,0;
+ItemGeometries-1920x1080=Applet-26:1410.03,530.367,512,512,0;
+ItemGeometriesHorizontal=Applet-26:1410.03,530.367,512,512,0;
 activityId=8877b9dd-8477-41ca-b958-394ea5a41621
 formfactor=0
 immutability=1
@@ -36,16 +36,16 @@ positions={"1920x1080":[]}
 [Containments][1][Wallpaper][org.kde.slideshow][General]
 Color=176,0,151
 FillMode=1
-Image=file:///home/sandra/Pictures/wallpapers/nature1.jpeg
+Image=file:///home/sandra/Pictures/wallpapers/architecture124.jpg
 SlideInterval=30
 SlidePaths=/usr/share/wallpapers/,/home/sandra/Pictures/wallpapers/
 
 [Containments][2]
 activityId=
-formfactor=3
+formfactor=2
 immutability=1
 lastScreen=0
-location=6
+location=4
 plugin=org.kde.panel
 wallpaperplugin=org.kde.image
 
@@ -55,8 +55,8 @@ plugin=org.kde.plasma.kickoff
 
 [Containments][2][Applets][104][Configuration]
 PreloadWeight=100
-popupHeight=676
-popupWidth=973
+popupHeight=807
+popupWidth=957
 
 [Containments][2][Applets][104][Configuration][ConfigDialog]
 DialogHeight=540
@@ -74,6 +74,7 @@ favoritesPortedToKAstats=true
 icon=archlinux
 limitDepth=true
 menuLabel=Start
+paneSwap=true
 showIconsRootLevel=true
 showRecentApps=false
 showRecentDocs=false
@@ -99,8 +100,8 @@ plugin=org.kde.plasma.digitalclock
 
 [Containments][2][Applets][116][Configuration]
 PreloadWeight=100
-popupHeight=666
-popupWidth=776
+popupHeight=674
+popupWidth=784
 
 [Containments][2][Applets][116][Configuration][Agenda]
 showWeekNumbers=true
@@ -156,7 +157,7 @@ DialogWidth=720
 [Containments][2][Applets][60][Configuration][General]
 predefinedTimers=7260
 running=7260
-savedAt=2025,6,1,17,32,57.687
+savedAt=2025,6,2,23,12,47.465
 seconds=7260
 showProgressBar=true
 
@@ -216,7 +217,7 @@ positions={"1920x1080":[]}
 [Containments][22][Wallpaper][org.kde.slideshow][General]
 Color=176,0,151
 FillMode=1
-Image=file:///home/sandra/Pictures/wallpapers/city74.jpeg
+Image=file:///home/sandra/Pictures/wallpapers/abstract85.jpg
 SlideInterval=30
 SlidePaths=/usr/share/wallpapers/,/home/sandra/Pictures/wallpapers/
 
@@ -468,7 +469,7 @@ positions={"1280x720":[],"1920x1080":[]}
 [Containments][23][Wallpaper][org.kde.slideshow][General]
 Color=176,0,151
 FillMode=1
-Image=file:///home/sandra/Pictures/wallpapers/train27.jpeg
+Image=file:///home/sandra/Pictures/wallpapers/street50.jpeg
 SlideInterval=30
 SlidePaths=/usr/share/wallpapers/,/home/sandra/Pictures/wallpapers/
 
@@ -487,19 +488,19 @@ positions={"1280x720":[]}
 [Containments][24][Wallpaper][org.kde.slideshow][General]
 Color=176,0,151
 FillMode=1
-Image=file:///home/sandra/Pictures/wallpapers/abstract113.jpg
+Image=file:///home/sandra/Pictures/wallpapers/abstract107.jpg
 SlideInterval=30
 SlidePaths=/usr/share/wallpapers/,/home/sandra/Pictures/wallpapers/
 
 [Containments][8]
 activityId=
-formfactor=3
+formfactor=2
 immutability=1
 lastScreen=0
-location=6
+location=4
 plugin=org.kde.plasma.private.systemtray
-popupHeight=490
-popupWidth=553
+popupHeight=498
+popupWidth=561
 wallpaperplugin=org.kde.image
 
 [Containments][8][Applets][10]
@@ -627,8 +628,8 @@ DialogWidth=1920
 displayStyle=LabelOverFlag
 
 [Containments][8][ConfigDialog]
-DialogHeight=672
-DialogWidth=909
+DialogHeight=1052
+DialogWidth=1880
 
 [Containments][8][General]
 extraItems=org.kde.plasma.keyboardlayout,org.kde.plasma.bluetooth,org.kde.plasma.printmanager,org.kde.plasma.volume,org.kde.plasma.manage-inputmethod,org.kde.plasma.mediacontroller,org.kde.plasma.brightness,org.kde.plasma.battery,org.kde.kscreen,org.kde.plasma.devicenotifier,org.kde.plasma.networkmanagement,org.kde.plasma.cameraindicator,org.kde.plasma.notifications,org.kde.plasma.keyboardindicator,org.kde.plasma.vault,org.kde.plasma.clipboard,org.kde.kdeconnect

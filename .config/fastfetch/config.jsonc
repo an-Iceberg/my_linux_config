@@ -160,9 +160,22 @@
       "type": "custom",
       "format": "{#magenta}╭────────( {#cyan}{#3}Themes & Customisation{#0}{#magenta} ) 🩷 🪻 🦋 🌸 🎀 💮 ✨"
     },
+    // Todo: split into terminal and terminal multiplexer (alacritty and zellij)
+    // {
+    //   "type": "terminal",
+    //   "key": "├─( {#38;5;171}Terminal{#magenta} )"
+    // },
     {
-      "type": "terminal",
-      "key": "├─( {#38;5;171}Terminal{#magenta} )"
+      "type": "command",
+      "key": "├─{{ {#38;5;171}Terminal{#magenta} }",
+      "text": "alacritty --version",
+      "format": "{}"
+    },
+    {
+      "type": "command",
+      "key": "├─{{ {#38;5;171}Term. Mpx.{#magenta} }",
+      "text": "zellij --version",
+      "format": "{}"
     },
     {
       "type": "terminalfont",
@@ -172,10 +185,10 @@
       "type": "shell",
       "key": "├─( {#38;5;171}Shell{#magenta} )"
     },
-    {
-      "type": "editor",
-      "key": "├─( {#38;5;171}Editor{#magenta} )"
-    },
+    // {
+    //   "type": "editor",
+    //   "key": "├─( {#38;5;171}Editor{#magenta} )"
+    // },
     {
       "type": "lm",
       "key": "├─( {#38;5;171}LM{#magenta} )"
@@ -221,20 +234,14 @@
     },
     {
       "type": "command",
-      "key": "├─{{ {#38;5;171}Zig ⚡{#magenta} }",
-      "text": "zig version",
-      "format": "zig {}"
+      "key": "├─{{ {#38;5;171}Julia{#magenta} }", // "key": "Julia 🔴🟢🟣",
+      "text": "julia --version | cut -d' ' -f1,3",
+      "format": "{}"
     },
     {
       "type": "command",
       "key": "├─{{ {#38;5;171}TypeScript{#magenta} }",
       "text": "deno --version | cut -d'\n' -f1 | cut -d' ' -f1,2",
-      "format": "{}"
-    },
-    {
-      "type": "command",
-      "key": "├─{{ {#38;5;171}Julia{#magenta} }", // "key": "Julia 🔴🟢🟣",
-      "text": "julia --version | cut -d' ' -f1,3",
       "format": "{}"
     },
     {

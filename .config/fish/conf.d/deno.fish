@@ -1,1 +1,1 @@
-source "/home/sandra/.deno/env.fish"
+source "~/.deno/env.fish"

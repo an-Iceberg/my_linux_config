@@ -10,7 +10,6 @@ end
 #   end
 # end
 
-
 starship init fish | source
 
 function fish_greeting
@@ -24,15 +23,11 @@ fish_add_path ~/.deno/bin/
 
 set --universal --export EDITOR nvim
 set --universal --export BROWSER firefox
-set --universal --export CARGO_MOMMYS_LITTLE "girl/baby girl"
+# set --universal --export CARGO_MOMMYS_LITTLE "girl/baby girl"
 # set --universal --export CARGO_MOMMYS_PRONOUNS "she/they"
-set --universal --export CARGO_MOMMYS_EMOTES "❤️/💖/💗/💓/💞/💕/💝/💟/❣️/🧡/💛/💚/💙/💜/🤍/♥/✨/💮/🌸/💠"
+# set --universal --export CARGO_MOMMYS_EMOTES "❤️/💖/💗/💓/💞/💕/💝/💟/❣️/🧡/💛/💚/💙/💜/🤍/♥/✨/💮/🌸/💠"
 
 # fish_config theme save "Catppuccin Macchiato"
 # fish_config theme choose "Catppuccin Macchiato"
 fish_config theme choose "Dracula Official"
 
-
-# bun
-set --export BUN_INSTALL "$HOME/.bun"
-set --export PATH $BUN_INSTALL/bin $PATH

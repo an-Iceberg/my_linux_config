@@ -9,6 +9,7 @@ cpu-x
 darktable
 discord
 discord_chat_exporter
+espanso
 fastfetch
 filezilla
 fish
@@ -41,6 +42,7 @@ reaper
 signal-desktop
 spacecadetpinball
 spectacle
+starship
 steam
 teams
 tiled

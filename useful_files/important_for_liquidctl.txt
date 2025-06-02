@@ -1,0 +1,2 @@
+https://github.com/liquidctl/liquidctl?tab=readme-ov-file#automation-and-running-at-boot
+
