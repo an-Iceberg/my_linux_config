@@ -45,20 +45,20 @@
 !.config/plasma-localerc
 
 # https://github.com/shalva97/kde-configuration-files#readme
-!.config/kdeglobals
-!.config/kscreenlockerrc
-!.config/kwinrc
-!.config/gtkrc
-!.config/Trolltech.conf
-!.config/kcmfonts
-!.config/kwinrc
-!.config/kdeglobals
-!.config/kcminputrc
-!.config/kfontinstuirc
-!.config/kwinrulesrc
-!.config/khotkeysrc
-!.config/kglobalshortcutsrc
-!.config/plasmanotifyrc
+# !.config/kdeglobals
+# !.config/kscreenlockerrc
+# !.config/kwinrc
+# !.config/gtkrc
+# !.config/Trolltech.conf
+# !.config/kcmfonts
+# !.config/kwinrc
+# !.config/kdeglobals
+# !.config/kcminputrc
+# !.config/kfontinstuirc
+# !.config/kwinrulesrc
+# !.config/khotkeysrc
+# !.config/kglobalshortcutsrc
+# !.config/plasmanotifyrc
 
 
 !.fonts
