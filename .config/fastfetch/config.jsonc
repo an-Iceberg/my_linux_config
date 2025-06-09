@@ -167,13 +167,13 @@
     // },
     {
       "type": "command",
-      "key": "├─{{ {#38;5;171}Terminal{#magenta} }",
+      "key": "├─( {#38;5;171}Terminal{#magenta} )",
       "text": "alacritty --version",
       "format": "{}"
     },
     {
       "type": "command",
-      "key": "├─{{ {#38;5;171}Term. Mpx.{#magenta} }",
+      "key": "├─( {#38;5;171}Term. Mpx.{#magenta} )",
       "text": "zellij --version",
       "format": "{}"
     },
