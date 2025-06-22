@@ -36,6 +36,7 @@ obsidian
 pipes-rs
 piskel
 postgresql
+power-profiles-daemon
 qalculate-qt
 qpwgraph
 reaper

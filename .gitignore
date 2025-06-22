@@ -83,6 +83,10 @@
 !.local/share/qalculate/
 .local/share/plasma/*
 !.local/share/plasma/desktoptheme/
+!.local/share/nvim
+!.local/share/nvim/site
+!.local/share/nvim/site/autoload
+!.local/share/nvim/site/autoload/plug.vim
 
 !useful_files/
 useful_files/github-recovery-codes.txt

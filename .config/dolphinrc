@@ -7,6 +7,10 @@ PreviewSize=16
 ShowSortBy=false
 ShowViewMode=false
 
+[FileDialogSize]
+4 screens: Height=540
+4 screens: Width=960
+
 [General]
 Version=202
 ViewPropsTimestamp=2024,6,3,10,36,43.014
