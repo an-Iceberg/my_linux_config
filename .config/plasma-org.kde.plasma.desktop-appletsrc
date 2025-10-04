@@ -22,7 +22,7 @@ positions={"1800x1125":[],"1920x1080":[]}
 [Containments][117][Wallpaper][org.kde.slideshow][General]
 Color=255,0,255
 FillMode=1
-Image=file:///home/priscilla/Pictures/wallpapers/street43.jpeg
+Image=file:///home/priscilla/Pictures/wallpapers/architecture195.jpg
 SlideInterval=30
 SlidePaths=/home/priscilla/Pictures/wallpapers/
 
@@ -36,12 +36,12 @@ plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.slideshow
 
 [Containments][121][General]
-positions={"1800x1125":[],"1920x1080":[]}
+positions={"1422x800":[],"1800x1125":[],"1920x1080":[]}
 
 [Containments][121][Wallpaper][org.kde.slideshow][General]
 Color=255,0,255
 FillMode=1
-Image=file:///home/priscilla/Pictures/wallpapers/abstract92.jpg
+Image=file:///home/priscilla/Pictures/wallpapers/architecture119.jpg
 SlideInterval=30
 SlidePaths=/home/priscilla/Pictures/wallpapers/
 
@@ -60,7 +60,7 @@ positions={"1422x800":[],"1920x1080":[]}
 [Containments][122][Wallpaper][org.kde.slideshow][General]
 Color=255,0,255
 FillMode=1
-Image=file:///home/priscilla/Pictures/wallpapers/circuit3.jpeg
+Image=file:///home/priscilla/Pictures/wallpapers/snow7.jpeg
 SlideInterval=30
 SlidePaths=/home/priscilla/Pictures/wallpapers/
 
@@ -79,7 +79,7 @@ positions={"1422x800":[],"1920x1080":[]}
 [Containments][123][Wallpaper][org.kde.slideshow][General]
 Color=255,0,255
 FillMode=1
-Image=file:///home/priscilla/Pictures/wallpapers/city152.jpg
+Image=file:///home/priscilla/Pictures/wallpapers/city-xp.jpeg
 SlideInterval=30
 SlidePaths=/home/priscilla/Pictures/wallpapers/
 
@@ -184,7 +184,7 @@ immutability=1
 plugin=org.kde.plasma.quicklaunch
 
 [Containments][131][Applets][138][Configuration][General]
-launcherUrls=file:///usr/share/applications/code.desktop
+launcherUrls=file:///home/priscilla/.local/share/applications/code.desktop
 
 [Containments][131][Applets][139]
 immutability=1
@@ -333,13 +333,6 @@ plugin=org.kde.plasma.quicklaunch
 [Containments][131][Applets][159][Configuration][General]
 launcherUrls=file:///usr/share/applications/lmms.desktop
 
-[Containments][131][Applets][160]
-immutability=1
-plugin=org.kde.plasma.quicklaunch
-
-[Containments][131][Applets][160][Configuration][General]
-launcherUrls=file:///usr/share/applications/cockos-reaper.desktop
-
 [Containments][131][Applets][161]
 immutability=1
 plugin=org.kde.plasma.quicklaunch
@@ -445,8 +438,36 @@ plugin=org.kde.plasma.quicklaunch
 [Containments][131][Applets][174][Configuration][General]
 launcherUrls=file:///usr/share/applications/blender.desktop
 
+[Containments][131][Applets][176]
+immutability=1
+plugin=org.kde.plasma.quicklaunch
+
+[Containments][131][Applets][176][Configuration][General]
+launcherUrls=file:///usr/share/applications/nvim.desktop
+
+[Containments][131][Applets][177]
+immutability=1
+plugin=org.kde.plasma.quicklaunch
+
+[Containments][131][Applets][177][Configuration][General]
+launcherUrls=file:///usr/share/applications/anki.desktop
+
+[Containments][131][Applets][178]
+immutability=1
+plugin=org.kde.plasma.quicklaunch
+
+[Containments][131][Applets][178][Configuration][General]
+launcherUrls=file:///usr/share/applications/org.kde.isoimagewriter.desktop
+
+[Containments][131][Applets][179]
+immutability=1
+plugin=org.kde.plasma.quicklaunch
+
+[Containments][131][Applets][179][Configuration][General]
+launcherUrls=file:///usr/share/applications/dev.zed.Zed.desktop
+
 [Containments][131][General]
-AppletOrder=133;134;135;172;164;138;139;140;141;165;143;144;145;146;147;166;148;149;150;167;153;154;171;156;137;155;157;170;169;151;152;168;142;158;159;160;161;162;163;174;173;136
+AppletOrder=133;134;135;172;164;138;179;139;140;141;165;143;144;145;146;147;166;148;177;149;150;167;153;154;171;156;137;178;155;157;170;176;169;151;152;168;142;158;159;161;162;163;174;173;136
 
 [Containments][2]
 activityId=
@@ -463,8 +484,8 @@ plugin=org.kde.plasma.kickoff
 
 [Containments][2][Applets][104][Configuration]
 PreloadWeight=100
-popupHeight=591
-popupWidth=851
+popupHeight=588
+popupWidth=847
 
 [Containments][2][Applets][104][Configuration][ConfigDialog]
 DialogHeight=540
@@ -509,8 +530,8 @@ plugin=org.kde.plasma.digitalclock
 
 [Containments][2][Applets][116][Configuration]
 PreloadWeight=100
-popupHeight=666
-popupWidth=776
+popupHeight=663
+popupWidth=772
 
 [Containments][2][Applets][116][Configuration][Agenda]
 showWeekNumbers=true
@@ -595,7 +616,7 @@ DialogWidth=720
 
 [Containments][2][Applets][60][Configuration][General]
 predefinedTimers=7260
-savedAt=2025,6,17,14,22,42.604
+savedAt=2025,8,30,12,32,20.354
 showProgressBar=true
 
 [Containments][2][Applets][7]
@@ -605,8 +626,8 @@ immutability=1
 lastScreen=0
 location=3
 plugin=org.kde.plasma.systemtray
-popupHeight=490
-popupWidth=553
+popupHeight=487
+popupWidth=549
 wallpaperplugin=org.kde.image
 
 [Containments][2][Applets][7][Applets][10]
@@ -659,6 +680,13 @@ PreloadWeight=100
 immutability=1
 plugin=org.kde.plasma.keyboardindicator
 
+[Containments][2][Applets][7][Applets][17][Configuration]
+PreloadWeight=55
+
+[Containments][2][Applets][7][Applets][17][Configuration][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
 [Containments][2][Applets][7][Applets][175]
 immutability=1
 plugin=org.kde.plasma.weather
@@ -693,21 +721,21 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][2][Applets][7][Applets][23][Configuration]
-PreloadWeight=59
+PreloadWeight=100
 
 [Containments][2][Applets][7][Applets][24]
 immutability=1
 plugin=org.kde.plasma.brightness
 
 [Containments][2][Applets][7][Applets][24][Configuration]
-PreloadWeight=5
+PreloadWeight=0
 
 [Containments][2][Applets][7][Applets][25]
 immutability=1
 plugin=org.kde.plasma.battery
 
 [Containments][2][Applets][7][Applets][25][Configuration]
-PreloadWeight=0
+PreloadWeight=2
 
 [Containments][2][Applets][7][Applets][25][Configuration][General]
 showPercentage=true
@@ -766,7 +794,7 @@ DialogWidth=720
 [Containments][2][Applets][79][Configuration][General]
 compactPreviewCount=3
 defaultFormat=#rrggbb
-history=#ed9eff,#58bc49,#1a5d59,#1a2b2f,#a17225,#be8738,#1e3038,#372d34,#3974b6
+history=#9966cc,#f4ab3f,#f4abba,#9799a5,#ed9eff,#58bc49,#1a5d59,#1a2b2f,#a17225
 
 [Containments][2][Applets][83]
 immutability=1

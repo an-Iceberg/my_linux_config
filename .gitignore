@@ -33,6 +33,7 @@
 !.config/tmux/
 !.config/wezterm/
 !.config/zellij/
+!.config/zed/
 
 !.config/breezerc
 !.config/dolphinrc
@@ -60,10 +61,9 @@
 # !.config/kglobalshortcutsrc
 # !.config/plasmanotifyrc
 
-
 !.fonts
 .fonts/*
-!.fonts/Varela**
+# !.fonts/Varela**
 !.fonts/Iosevka**
 # .fonts/.uuid
 # !.fonts.zip
@@ -74,15 +74,7 @@
 .local/share/*
 !.local/share/kxmlgui5/
 !.local/share/konsole/
-!.local/share/icons/
-.local/share/icons/*
-!.local/share/icons/BeautyLine
-!.local/share/icons/BeautySolar
-!.local/share/icons/candy-icons
-!.local/share/plasma/
 !.local/share/qalculate/
-.local/share/plasma/*
-!.local/share/plasma/desktoptheme/
 !.local/share/nvim
 !.local/share/nvim/site
 !.local/share/nvim/site/autoload

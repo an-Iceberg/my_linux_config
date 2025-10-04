@@ -37,3 +37,7 @@ Plugins=kraorathumbnail,fontthumbnail,jpegthumbnail,windowsexethumbnail,ffmpegth
 
 [Toolbar mainToolBar]
 ToolButtonStyle=IconOnly
+
+[ViewPropertiesDialog]
+4 screens: Height=566
+4 screens: Width=384

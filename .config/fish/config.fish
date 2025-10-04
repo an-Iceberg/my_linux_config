@@ -31,3 +31,5 @@ set --universal --export BROWSER firefox
 # fish_config theme choose "Catppuccin Macchiato"
 fish_config theme choose "Dracula Official"
 
+
+set -q GHCUP_INSTALL_BASE_PREFIX[1]; or set GHCUP_INSTALL_BASE_PREFIX $HOME ; set -gx PATH $HOME/.cabal/bin $PATH /home/priscilla/.ghcup/bin # ghcup-env
