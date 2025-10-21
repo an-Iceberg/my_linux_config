@@ -6,26 +6,26 @@ LockSidebar=true
 ShowSidebar=true
 
 [Recent Files]
-File1[$e]=$HOME/Downloads/Fehlererkennung_script.pdf
-File10[$e]=$HOME/Downloads/DisplayLink_Ubuntu/DisplayLink_Ubuntu/For other Linux distirbutions.pdf
-File2[$e]=$HOME/Documents/PDF_Documents/SCC_CheatSheet_Islikpas_HS2022.pdf
-File3[$e]=$HOME/Documents/PDF_Documents/Skript.pdf
-File4[$e]=$HOME/Documents/PDF_Documents/SkriptMND1.pdf
-File5[$e]=$HOME/Documents/PDF_Documents/Stadt Zürich.pdf
-File6[$e]=$HOME/Documents/PDF_Documents/Terminuebersicht_fuer_Studierende_2025_05.11.24.pdf
-File7[$e]=$HOME/Documents/PDF_Documents/Z_MB_Merkblatt_Berechtigung_an_schriftlichen_Studierendenarbeiten.pdf
-File8[$e]=$HOME/Downloads/ZW Save the Date Hochschultag 25_intern_2.pdf
-File9[$e]=$HOME/Documents/Rp Marosi 8-25.pdf
-Name1[$e]=Fehlererkennung_script.pdf
-Name10[$e]=For other Linux distirbutions.pdf
-Name2[$e]=SCC_CheatSheet_Islikpas_HS2022.pdf
-Name3[$e]=Skript.pdf
-Name4[$e]=SkriptMND1.pdf
-Name5[$e]=Stadt Zürich.pdf
-Name6[$e]=Terminuebersicht_fuer_Studierende_2025_05.11.24.pdf
-Name7[$e]=Z_MB_Merkblatt_Berechtigung_an_schriftlichen_Studierendenarbeiten.pdf
-Name8[$e]=ZW Save the Date Hochschultag 25_intern_2.pdf
-Name9[$e]=Rp Marosi 8-25.pdf
+File1[$e]=$HOME/Documents/PDF_Documents/SkriptMND1.pdf
+File10[$e]=$HOME/Programming/github_repositories/ZHAW/PREAN_Skript.pdf
+File2[$e]=$HOME/Documents/PDF_Documents/Stadt Zürich.pdf
+File3[$e]=$HOME/Documents/PDF_Documents/Terminuebersicht_fuer_Studierende_2025_05.11.24.pdf
+File4[$e]=$HOME/Documents/PDF_Documents/Z_MB_Merkblatt_Berechtigung_an_schriftlichen_Studierendenarbeiten.pdf
+File5[$e]=$HOME/Downloads/ZW Save the Date Hochschultag 25_intern_2.pdf
+File6[$e]=$HOME/Documents/Rp Marosi 8-25.pdf
+File7[$e]=$HOME/Downloads/DisplayLink_Ubuntu/DisplayLink_Ubuntu/For other Linux distirbutions.pdf
+File8[$e]=$HOME/Programming/github_repositories/ZHAW/SkriptAn3.pdf
+File9[$e]=$HOME/Downloads/NPSY+Überweisungsformular+ab+09+25.pdf
+Name1[$e]=SkriptMND1.pdf
+Name10[$e]=PREAN_Skript.pdf
+Name2[$e]=Stadt Zürich.pdf
+Name3[$e]=Terminuebersicht_fuer_Studierende_2025_05.11.24.pdf
+Name4[$e]=Z_MB_Merkblatt_Berechtigung_an_schriftlichen_Studierendenarbeiten.pdf
+Name5[$e]=ZW Save the Date Hochschultag 25_intern_2.pdf
+Name6[$e]=Rp Marosi 8-25.pdf
+Name7[$e]=For other Linux distirbutions.pdf
+Name8[$e]=SkriptAn3.pdf
+Name9[$e]=NPSY+Überweisungsformular+ab+09+25.pdf
 
 [UiSettings]
 ColorScheme=

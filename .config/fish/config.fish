@@ -10,7 +10,6 @@ end
 #   end
 # end
 
-starship init fish | source
 
 function fish_greeting
   # echo "><> Fish Shell <°)))><3"
@@ -33,3 +32,6 @@ fish_config theme choose "Dracula Official"
 
 
 set -q GHCUP_INSTALL_BASE_PREFIX[1]; or set GHCUP_INSTALL_BASE_PREFIX $HOME ; set -gx PATH $HOME/.cabal/bin $PATH /home/priscilla/.ghcup/bin # ghcup-env
+
+starship init fish | source
+zoxide init fish | source

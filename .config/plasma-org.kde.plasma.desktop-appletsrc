@@ -22,7 +22,7 @@ positions={"1800x1125":[],"1920x1080":[]}
 [Containments][117][Wallpaper][org.kde.slideshow][General]
 Color=255,0,255
 FillMode=1
-Image=file:///home/priscilla/Pictures/wallpapers/architecture195.jpg
+Image=file:///home/priscilla/Pictures/wallpapers/city67.jpeg
 SlideInterval=30
 SlidePaths=/home/priscilla/Pictures/wallpapers/
 
@@ -41,7 +41,7 @@ positions={"1422x800":[],"1800x1125":[],"1920x1080":[]}
 [Containments][121][Wallpaper][org.kde.slideshow][General]
 Color=255,0,255
 FillMode=1
-Image=file:///home/priscilla/Pictures/wallpapers/architecture119.jpg
+Image=file:///home/priscilla/Pictures/wallpapers/architecture95.jpg
 SlideInterval=30
 SlidePaths=/home/priscilla/Pictures/wallpapers/
 
@@ -60,7 +60,7 @@ positions={"1422x800":[],"1920x1080":[]}
 [Containments][122][Wallpaper][org.kde.slideshow][General]
 Color=255,0,255
 FillMode=1
-Image=file:///home/priscilla/Pictures/wallpapers/snow7.jpeg
+Image=file:///home/priscilla/Pictures/wallpapers/city15.jpeg
 SlideInterval=30
 SlidePaths=/home/priscilla/Pictures/wallpapers/
 
@@ -79,7 +79,7 @@ positions={"1422x800":[],"1920x1080":[]}
 [Containments][123][Wallpaper][org.kde.slideshow][General]
 Color=255,0,255
 FillMode=1
-Image=file:///home/priscilla/Pictures/wallpapers/city-xp.jpeg
+Image=file:///home/priscilla/Pictures/wallpapers/street4.jpeg
 SlideInterval=30
 SlidePaths=/home/priscilla/Pictures/wallpapers/
 
@@ -466,8 +466,29 @@ plugin=org.kde.plasma.quicklaunch
 [Containments][131][Applets][179][Configuration][General]
 launcherUrls=file:///usr/share/applications/dev.zed.Zed.desktop
 
+[Containments][131][Applets][180]
+immutability=1
+plugin=org.kde.plasma.quicklaunch
+
+[Containments][131][Applets][180][Configuration][General]
+launcherUrls=file:///usr/share/applications/beekeeper-studio.desktop
+
+[Containments][131][Applets][181]
+immutability=1
+plugin=org.kde.plasma.quicklaunch
+
+[Containments][131][Applets][181][Configuration][General]
+launcherUrls=file:///usr/share/applications/Proton Authenticator.desktop
+
+[Containments][131][Applets][182]
+immutability=1
+plugin=org.kde.plasma.quicklaunch
+
+[Containments][131][Applets][182][Configuration][General]
+launcherUrls=file:///usr/share/applications/docker-desktop.desktop
+
 [Containments][131][General]
-AppletOrder=133;134;135;172;164;138;179;139;140;141;165;143;144;145;146;147;166;148;177;149;150;167;153;154;171;156;137;178;155;157;170;176;169;151;152;168;142;158;159;161;162;163;174;173;136
+AppletOrder=133;134;135;172;164;138;179;139;180;182;140;141;165;143;144;145;146;147;166;148;177;149;150;167;153;154;181;171;156;137;178;155;157;170;176;169;151;152;168;142;158;159;161;162;163;174;173;136
 
 [Containments][2]
 activityId=
@@ -735,7 +756,7 @@ immutability=1
 plugin=org.kde.plasma.battery
 
 [Containments][2][Applets][7][Applets][25][Configuration]
-PreloadWeight=2
+PreloadWeight=0
 
 [Containments][2][Applets][7][Applets][25][Configuration][General]
 showPercentage=true

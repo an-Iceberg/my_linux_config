@@ -5,14 +5,21 @@ work:
   bat
   btop
   eza
+  file
   find ~/.icons/ -maxdepth 1 -type d -exec gtk-update-icon-cache {} \; # Update all icon caches
   iftop
+  joshuto
   lazygit
+  ldd
+  lf
   pacseek
   paru -Qe | cut -f 1 -d " " > user_installed_packages.txt # Put all user installed packages into a text file
   pcurses
   pv
-  # ranger
+  ranger
+  yazi
+  z
+  zi
 
 fun
   aafire -driver slang | curses
