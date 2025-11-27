@@ -64,7 +64,7 @@ Plotting
 
 Web
   actix
-  maud
+  tera
 
 Misc. dev tools
   colored

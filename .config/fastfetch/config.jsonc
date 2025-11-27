@@ -172,15 +172,15 @@
     {
       "type": "command",
       "key": "├─( {#38;5;171}Terminal{#magenta} )",
-      "text": "alacritty --version",
+      "text": "echo \"$(ghostty +version | cut -d'\n' -f1)\"",
       "format": "{}"
     },
-    {
-      "type": "command",
-      "key": "├─( {#38;5;171}Term. Mpx.{#magenta} )",
-      "text": "zellij --version",
-      "format": "{}"
-    },
+    // {
+    //   "type": "command",
+    //   "key": "├─( {#38;5;171}Term. Mpx.{#magenta} )",
+    //   "text": "zellij --version",
+    //   "format": "{}"
+    // },
     {
       "type": "terminalfont",
       "key": "├─( {#38;5;171}Term. Font{#magenta} )"
@@ -245,7 +245,7 @@
     {
       "type": "command",
       "key": "├─{{ {#38;5;171}C/C++{#magenta} }",
-      "text": " echo \"$(gcc --version | cut -d'\n' -f1 | cut -d' ' -f1,3), $(clang --version | cut -d'\n' -f1 | cut -d' ' -f1,3), $(tcc --version | cut -d' ' -f1,3)\"",
+      "text": "echo \"$(gcc --version | cut -d'\n' -f1 | cut -d' ' -f1,3), $(clang --version | cut -d'\n' -f1 | cut -d' ' -f1,3), $(tcc --version | cut -d' ' -f1,3)\"",
       "format": "{}"
     },
     {

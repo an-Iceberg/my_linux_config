@@ -74,6 +74,7 @@
 .local/share/*
 !.local/share/kxmlgui5/
 !.local/share/konsole/
+!.local/share/plasma-systemmonitor/
 !.local/share/qalculate/
 !.local/share/nvim
 !.local/share/nvim/site

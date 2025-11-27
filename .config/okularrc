@@ -6,26 +6,26 @@ LockSidebar=true
 ShowSidebar=true
 
 [Recent Files]
-File1[$e]=$HOME/Documents/PDF_Documents/SkriptMND1.pdf
-File10[$e]=$HOME/Programming/github_repositories/ZHAW/PREAN_Skript.pdf
-File2[$e]=$HOME/Documents/PDF_Documents/Stadt Zürich.pdf
-File3[$e]=$HOME/Documents/PDF_Documents/Terminuebersicht_fuer_Studierende_2025_05.11.24.pdf
-File4[$e]=$HOME/Documents/PDF_Documents/Z_MB_Merkblatt_Berechtigung_an_schriftlichen_Studierendenarbeiten.pdf
-File5[$e]=$HOME/Downloads/ZW Save the Date Hochschultag 25_intern_2.pdf
-File6[$e]=$HOME/Documents/Rp Marosi 8-25.pdf
-File7[$e]=$HOME/Downloads/DisplayLink_Ubuntu/DisplayLink_Ubuntu/For other Linux distirbutions.pdf
+File1[$e]=$HOME/Documents/Rp Marosi 8-25.pdf
+File10[$e]=$HOME/Documents/PDF_Documents/ZHAW/Rechnung_FS_2025.pdf
+File2[$e]=$HOME/Downloads/DisplayLink_Ubuntu/DisplayLink_Ubuntu/For other Linux distirbutions.pdf
+File3[$e]=$HOME/Downloads/NPSY+Überweisungsformular+ab+09+25.pdf
+File4[$e]=$HOME/Programming/github_repositories/ZHAW/PREAN_Skript.pdf
+File5[$e]=$HOME/Programming/github_repositories/ZHAW/SkriptMND1.pdf
+File6[$e]=$HOME/Programming/github_repositories/ZHAW/SkriptMND2.pdf
+File7[$e]=$HOME/Programming/github_repositories/ZHAW/SkriptNumerik.pdf
 File8[$e]=$HOME/Programming/github_repositories/ZHAW/SkriptAn3.pdf
-File9[$e]=$HOME/Downloads/NPSY+Überweisungsformular+ab+09+25.pdf
-Name1[$e]=SkriptMND1.pdf
-Name10[$e]=PREAN_Skript.pdf
-Name2[$e]=Stadt Zürich.pdf
-Name3[$e]=Terminuebersicht_fuer_Studierende_2025_05.11.24.pdf
-Name4[$e]=Z_MB_Merkblatt_Berechtigung_an_schriftlichen_Studierendenarbeiten.pdf
-Name5[$e]=ZW Save the Date Hochschultag 25_intern_2.pdf
-Name6[$e]=Rp Marosi 8-25.pdf
-Name7[$e]=For other Linux distirbutions.pdf
+File9[$e]=$HOME/Documents/PDF_Documents/ZHAW/Rechnung_HS_2024.pdf
+Name1[$e]=Rp Marosi 8-25.pdf
+Name10[$e]=Rechnung_FS_2025.pdf
+Name2[$e]=For other Linux distirbutions.pdf
+Name3[$e]=NPSY+Überweisungsformular+ab+09+25.pdf
+Name4[$e]=PREAN_Skript.pdf
+Name5[$e]=SkriptMND1.pdf
+Name6[$e]=SkriptMND2.pdf
+Name7[$e]=SkriptNumerik.pdf
 Name8[$e]=SkriptAn3.pdf
-Name9[$e]=NPSY+Überweisungsformular+ab+09+25.pdf
+Name9[$e]=Rechnung_HS_2024.pdf
 
 [UiSettings]
 ColorScheme=
