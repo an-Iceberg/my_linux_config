@@ -47,6 +47,7 @@ GUI
   gtk4
   iced
   rfd
+  slint
   tauri
 
 Game
@@ -71,6 +72,7 @@ Misc. dev tools
   dotenv
   hashbrown
   itertools
+  just
   log
   rand
   rayon

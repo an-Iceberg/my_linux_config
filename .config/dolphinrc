@@ -7,11 +7,13 @@ PreviewSize=16
 ShowSortBy=false
 ShowViewMode=false
 
-[FileDialogSize]
-4 screens: Height=540
-4 screens: Width=960
+[DetailsMode]
+PreviewSize=16
 
 [General]
+ShowFullPath=true
+ShowStatusBar=FullWidth
+ShowZoomSlider=true
 Version=202
 ViewPropsTimestamp=2024,6,3,10,36,43.014
 
@@ -33,7 +35,7 @@ ToolButtonStyle=IconOnly
 IconSize=32
 
 [PreviewSettings]
-Plugins=kraorathumbnail,fontthumbnail,jpegthumbnail,windowsexethumbnail,ffmpegthumbs,djvuthumbnail,exrthumbnail,appimagethumbnail,imagethumbnail,ebookthumbnail,windowsimagethumbnail,svgthumbnail,mltpreview,directorythumbnail,opendocumentthumbnail,comicbookthumbnail,audiothumbnail,cursorthumbnail,avif,gdk-pixbuf-thumbnailer,heif,jxl,tiled
+Plugins=appimagethumbnail,audiothumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,heif,imagethumbnail,glycin-image-rs,jpegthumbnail,glycin-jxl,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,mltpreview,opendocumentthumbnail,glycin-svg,svgthumbnail,textthumbnail,tiled,ffmpegthumbs
 
 [Toolbar mainToolBar]
 ToolButtonStyle=IconOnly

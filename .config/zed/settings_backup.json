@@ -7,7 +7,6 @@
 // custom settings, run `zed: open default settings` from the
 // command palette (cmd-shift-p / ctrl-shift-p)
 {
-  "colorize_brackets": true,
   "window_decorations": "server",
   "tab_bar": {
     "show": true,
@@ -16,7 +15,7 @@
     "border_size": 1,
     "inactive_opacity": 0.8,
   },
-  "auto_indent": "syntax_aware",
+  "auto_indent": true,
   "auto_install_extensions": {
     "catppuccin-blur": true,
     "catppuccin-icons": true,
@@ -94,12 +93,6 @@
     //     "arguments": ["-E", "additional-args"],
     //   },
     // },
-    // "tinymist": {
-    //   "settings": {
-    //     "exportPdf": "onSave",
-    //     "outputPath": "$root/$name",
-    //   },
-    // },
   },
   "tab_size": 2,
   "vim_mode": true,
@@ -127,7 +120,7 @@
   "theme": {
     "mode": "dark",
     "light": "One Light",
-    "dark": "Rust & Brown",
+    "dark": "Shades Of Purple",
   },
   "telemetry": {
     "diagnostics": false,
@@ -182,12 +175,6 @@
       // },
     },
     "Slint": {
-      "format_on_save": "off",
-    },
-    "Just": {
-      "format_on_save": "off",
-    },
-    "Kotlin": {
       "format_on_save": "off",
     },
   },

@@ -22,11 +22,13 @@ positions={"0x0":[],"1800x1125":[],"1920x1080":[]}
 [Containments][117][Wallpaper][org.kde.slideshow][General]
 Color=255,0,255
 FillMode=1
-Image=file:///home/priscilla/Pictures/wallpapers/architecture32.jpg
+Image=file:///home/priscilla/Pictures/wallpapers/waves26.jpg
 SlideInterval=30
 SlidePaths=/home/priscilla/Pictures/wallpapers/
 
 [Containments][121]
+ItemGeometries-1200x750=
+ItemGeometriesHorizontal=
 activityId=832e9ce2-9038-4577-8cd4-aa4082f98782
 formfactor=0
 immutability=1
@@ -41,7 +43,7 @@ positions={"0x0":[],"1422x800":[],"1800x1125":[],"1920x1080":[]}
 [Containments][121][Wallpaper][org.kde.slideshow][General]
 Color=255,0,255
 FillMode=1
-Image=file:///home/priscilla/Pictures/wallpapers/abstract88.jpg
+Image=file:///home/priscilla/Pictures/wallpapers/beach.jpeg
 SlideInterval=30
 SlidePaths=/home/priscilla/Pictures/wallpapers/
 
@@ -60,7 +62,7 @@ positions={"0x0":[],"1422x800":[],"1920x1080":[]}
 [Containments][122][Wallpaper][org.kde.slideshow][General]
 Color=255,0,255
 FillMode=1
-Image=file:///home/priscilla/Pictures/wallpapers/architecture172.jpg
+Image=file:///home/priscilla/Pictures/wallpapers/train1.jpeg
 SlideInterval=30
 SlidePaths=/home/priscilla/Pictures/wallpapers/
 
@@ -79,7 +81,7 @@ positions={"0x0":[],"1422x800":[],"1920x1080":[]}
 [Containments][123][Wallpaper][org.kde.slideshow][General]
 Color=255,0,255
 FillMode=1
-Image=file:///home/priscilla/Pictures/wallpapers/street5.jpeg
+Image=file:///home/priscilla/Pictures/wallpapers/street67.jpg
 SlideInterval=30
 SlidePaths=/home/priscilla/Pictures/wallpapers/
 
@@ -158,13 +160,6 @@ plugin=org.kde.plasma.quicklaunch
 [Containments][131][Applets][134][Configuration][General]
 launcherUrls=file:///usr/share/applications/firefox.desktop
 
-[Containments][131][Applets][135]
-immutability=1
-plugin=org.kde.plasma.quicklaunch
-
-[Containments][131][Applets][135][Configuration][General]
-launcherUrls=file:///usr/share/applications/zellij.desktop
-
 [Containments][131][Applets][136]
 immutability=1
 plugin=org.kde.plasma.quicklaunch
@@ -178,20 +173,6 @@ plugin=org.kde.plasma.quicklaunch
 
 [Containments][131][Applets][137][Configuration][General]
 launcherUrls=file:///usr/share/applications/com.obsproject.Studio.desktop
-
-[Containments][131][Applets][138]
-immutability=1
-plugin=org.kde.plasma.quicklaunch
-
-[Containments][131][Applets][138][Configuration][General]
-launcherUrls=file:///home/priscilla/.local/share/applications/code.desktop
-
-[Containments][131][Applets][139]
-immutability=1
-plugin=org.kde.plasma.quicklaunch
-
-[Containments][131][Applets][139][Configuration][General]
-launcherUrls=file:///usr/share/applications/github-desktop.desktop
 
 [Containments][131][Applets][140]
 immutability=1
@@ -233,14 +214,7 @@ immutability=1
 plugin=org.kde.plasma.quicklaunch
 
 [Containments][131][Applets][145][Configuration][General]
-launcherUrls=file:///usr/share/applications/signal-desktop.desktop
-
-[Containments][131][Applets][146]
-immutability=1
-plugin=org.kde.plasma.quicklaunch
-
-[Containments][131][Applets][146][Configuration][General]
-launcherUrls=file:///usr/share/applications/org.kde.kmail2.desktop
+launcherUrls=file:///usr/share/applications/signal.desktop
 
 [Containments][131][Applets][147]
 immutability=1
@@ -263,13 +237,6 @@ plugin=org.kde.plasma.quicklaunch
 [Containments][131][Applets][149][Configuration][General]
 launcherUrls=file:///usr/share/applications/libreoffice-startcenter.desktop
 
-[Containments][131][Applets][150]
-immutability=1
-plugin=org.kde.plasma.quicklaunch
-
-[Containments][131][Applets][150][Configuration][General]
-launcherUrls=file:///usr/share/applications/org.kde.okular.desktop
-
 [Containments][131][Applets][151]
 immutability=1
 plugin=org.kde.plasma.quicklaunch
@@ -290,13 +257,6 @@ plugin=org.kde.plasma.quicklaunch
 
 [Containments][131][Applets][154][Configuration][General]
 launcherUrls=file:///usr/share/applications/io.github.Qalculate.qalculate-qt.desktop
-
-[Containments][131][Applets][155]
-immutability=1
-plugin=org.kde.plasma.quicklaunch
-
-[Containments][131][Applets][155][Configuration][General]
-launcherUrls=file:///usr/share/applications/filezilla.desktop
 
 [Containments][131][Applets][156]
 immutability=1
@@ -402,20 +362,6 @@ plugin=org.kde.plasma.quicklaunch
 [Containments][131][Applets][170][Configuration][General]
 launcherUrls=file:///usr/share/applications/Vial.desktop
 
-[Containments][131][Applets][171]
-immutability=1
-plugin=org.kde.plasma.quicklaunch
-
-[Containments][131][Applets][171][Configuration][General]
-launcherUrls=file:///usr/share/applications/ytdlp-gui.desktop
-
-[Containments][131][Applets][172]
-immutability=1
-plugin=org.kde.plasma.quicklaunch
-
-[Containments][131][Applets][172][Configuration][General]
-launcherUrls=file:///usr/share/applications/Alacritty.desktop
-
 [Containments][131][Applets][173]
 immutability=1
 plugin=org.kde.plasma.panelspacer
@@ -430,13 +376,6 @@ plugin=org.kde.plasma.quicklaunch
 
 [Containments][131][Applets][174][Configuration][General]
 launcherUrls=file:///usr/share/applications/blender.desktop
-
-[Containments][131][Applets][176]
-immutability=1
-plugin=org.kde.plasma.quicklaunch
-
-[Containments][131][Applets][176][Configuration][General]
-launcherUrls=file:///usr/share/applications/nvim.desktop
 
 [Containments][131][Applets][177]
 immutability=1
@@ -466,20 +405,6 @@ plugin=org.kde.plasma.quicklaunch
 [Containments][131][Applets][180][Configuration][General]
 launcherUrls=file:///usr/share/applications/beekeeper-studio.desktop
 
-[Containments][131][Applets][181]
-immutability=1
-plugin=org.kde.plasma.quicklaunch
-
-[Containments][131][Applets][181][Configuration][General]
-launcherUrls=file:///usr/share/applications/Proton Authenticator.desktop
-
-[Containments][131][Applets][182]
-immutability=1
-plugin=org.kde.plasma.quicklaunch
-
-[Containments][131][Applets][182][Configuration][General]
-launcherUrls=file:///usr/share/applications/docker-desktop.desktop
-
 [Containments][131][Applets][183]
 immutability=1
 plugin=org.kde.plasma.icon
@@ -493,7 +418,7 @@ immutability=1
 plugin=org.kde.plasma.quicklaunch
 
 [Containments][131][Applets][184][Configuration][General]
-launcherUrls=file:///usr/share/applications/com.mitchellh.ghostty.desktop
+launcherUrls=file:///usr/share/applications/org.kde.konsole.desktop
 
 [Containments][131][Applets][185]
 immutability=1
@@ -502,13 +427,6 @@ plugin=org.kde.plasma.quicklaunch
 [Containments][131][Applets][185][Configuration][General]
 launcherUrls=file:///home/priscilla/.local/share/applications/proton-mail.desktop
 
-[Containments][131][Applets][186]
-immutability=1
-plugin=org.kde.plasma.quicklaunch
-
-[Containments][131][Applets][186][Configuration][General]
-launcherUrls=file:///usr/share/applications/virt-manager.desktop
-
 [Containments][131][Applets][187]
 immutability=1
 plugin=org.kde.plasma.quicklaunch
@@ -516,8 +434,53 @@ plugin=org.kde.plasma.quicklaunch
 [Containments][131][Applets][187][Configuration][General]
 launcherUrls=file:///usr/share/applications/org.kde.plasma-systemmonitor.desktop
 
+[Containments][131][Applets][195]
+immutability=1
+plugin=org.kde.plasma.quicklaunch
+
+[Containments][131][Applets][195][Configuration][General]
+launcherUrls=file:///usr/share/applications/org.mozilla.Thunderbird.desktop
+
+[Containments][131][Applets][196]
+immutability=1
+plugin=org.kde.plasma.quicklaunch
+
+[Containments][131][Applets][196][Configuration][General]
+launcherUrls=file:///usr/share/applications/torbrowser.desktop
+
+[Containments][131][Applets][197]
+immutability=1
+plugin=org.kde.plasma.quicklaunch
+
+[Containments][131][Applets][197][Configuration][General]
+launcherUrls=file:///home/priscilla/.local/share/applications/session-desktop.desktop
+
+[Containments][131][Applets][198]
+immutability=1
+plugin=org.kde.plasma.quicklaunch
+
+[Containments][131][Applets][198][Configuration][General]
+launcherUrls=file:///usr/share/applications/org.wireshark.Wireshark.desktop
+
+[Containments][131][Applets][199]
+immutability=1
+plugin=org.kde.plasma.quicklaunch
+
+[Containments][131][Applets][199][Configuration][General]
+launcherUrls=file:///usr/share/applications/deltachat-desktop.desktop
+
+[Containments][131][Applets][200]
+immutability=1
+plugin=org.kde.plasma.quicklaunch
+
+[Containments][131][Applets][200][Configuration][General]
+launcherUrls=file:///usr/share/applications/org.kde.discover.desktop
+
 [Containments][131][General]
-AppletOrder=133;134;135;172;184;164;138;179;139;186;180;182;140;141;165;185;143;144;145;146;147;166;148;177;149;150;167;183;154;181;171;156;137;178;155;157;170;176;169;151;152;168;142;158;159;161;162;163;174;173;136;187
+AppletOrder=133;134;184;200;164;179;180;198;140;141;165;185;195;143;144;145;197;199;147;196;166;148;177;149;167;183;154;156;137;178;157;170;169;151;152;168;142;158;159;161;162;163;174;173;136;187
+
+[Containments][131][Shortcuts]
+global=
 
 [Containments][2]
 activityId=
@@ -527,41 +490,6 @@ lastScreen=0
 location=3
 plugin=org.kde.panel
 wallpaperplugin=org.kde.image
-
-[Containments][2][Applets][104]
-immutability=1
-plugin=org.kde.plasma.kickoff
-
-[Containments][2][Applets][104][Configuration]
-PreloadWeight=100
-popupHeight=693
-popupWidth=887
-
-[Containments][2][Applets][104][Configuration][ConfigDialog]
-DialogHeight=540
-DialogWidth=720
-
-[Containments][2][Applets][104][Configuration][General]
-alignResultsToBottom=false
-alphaSort=true
-appNameFormat=0
-applicationsDisplay=0
-compactMode=true
-customButtonImage=arch-logo-icon
-favoriteSystemActions=
-favoritesPortedToKAstats=true
-icon=archlinux
-limitDepth=true
-menuLabel=Start
-paneSwap=true
-primaryActions=3
-showIconsRootLevel=true
-showRecentApps=false
-showRecentDocs=false
-switchCategoryOnHover=true
-systemFavorites=lock-screen\\,logout\\,save-session\\,switch-user\\,suspend\\,hibernate\\,reboot\\,shutdown
-useCustomButtonImage=true
-useExtraRunners=false
 
 [Containments][2][Applets][113]
 immutability=1
@@ -579,16 +507,15 @@ immutability=1
 plugin=org.kde.plasma.digitalclock
 
 [Containments][2][Applets][116][Configuration]
-PreloadWeight=100
 popupHeight=663
-popupWidth=772
+popupWidth=810
 
 [Containments][2][Applets][116][Configuration][Agenda]
 showWeekNumbers=true
 
 [Containments][2][Applets][116][Configuration][Appearance]
+dateDisplayFormat=BesideTime
 firstDayOfWeek=1
-showDate=false
 showSeconds=Never
 showWeekNumbers=true
 use24hFormat=2
@@ -626,6 +553,39 @@ plugin=org.kde.plasma.panelspacer
 expanding=false
 length=30
 
+[Containments][2][Applets][193]
+immutability=1
+plugin=org.kde.plasma.kicker
+
+[Containments][2][Applets][193][Configuration]
+popupHeight=371
+popupWidth=312
+
+[Containments][2][Applets][193][Configuration][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
+[Containments][2][Applets][193][Configuration][General]
+alignResultsToBottom=false
+alphaSort=true
+appNameFormat=0
+applicationsDisplay=0
+compactMode=true
+customButtonImage=arch-logo-icon
+favoriteSystemActions=
+favoritesPortedToKAstats=true
+icon=archlinux
+menuLabel=Start
+paneSwap=true
+primaryActions=3
+showIconsRootLevel=true
+showRecentApps=false
+showRecentDocs=false
+switchCategoryOnHover=true
+systemFavorites=lock-screen\\,logout\\,save-session\\,switch-user\\,suspend\\,hibernate\\,reboot\\,shutdown
+useCustomButtonImage=true
+useExtraRunners=false
+
 [Containments][2][Applets][21]
 immutability=1
 plugin=org.kde.plasma.showdesktop
@@ -641,9 +601,6 @@ global=Meta
 immutability=1
 plugin=org.kde.plasma.trash
 
-[Containments][2][Applets][57][Configuration]
-PreloadWeight=100
-
 [Containments][2][Applets][58]
 immutability=1
 plugin=org.kde.plasma.quicklaunch
@@ -656,17 +613,17 @@ immutability=1
 plugin=org.kde.plasma.timer
 
 [Containments][2][Applets][60][Configuration]
-PreloadWeight=100
-popupHeight=200
-popupWidth=584
+popupHeight=203
+popupWidth=588
 
 [Containments][2][Applets][60][Configuration][ConfigDialog]
 DialogHeight=540
 DialogWidth=720
 
 [Containments][2][Applets][60][Configuration][General]
+notificationText=
 predefinedTimers=7260
-savedAt=2025,11,16,12,56,39.476
+savedAt=2026,4,7,23,8,7.044
 showProgressBar=true
 
 [Containments][2][Applets][7]
@@ -676,23 +633,17 @@ immutability=1
 lastScreen=0
 location=3
 plugin=org.kde.plasma.systemtray
-popupHeight=487
-popupWidth=549
+popupHeight=490
+popupWidth=553
 wallpaperplugin=org.kde.image
 
 [Containments][2][Applets][7][Applets][10]
 immutability=1
 plugin=org.kde.plasma.printmanager
 
-[Containments][2][Applets][7][Applets][10][Configuration]
-PreloadWeight=100
-
 [Containments][2][Applets][7][Applets][11]
 immutability=1
 plugin=org.kde.plasma.volume
-
-[Containments][2][Applets][7][Applets][11][Configuration]
-PreloadWeight=100
 
 [Containments][2][Applets][7][Applets][11][Configuration][General]
 migrated=true
@@ -705,15 +656,9 @@ plugin=org.kde.plasma.manage-inputmethod
 immutability=1
 plugin=org.kde.kscreen
 
-[Containments][2][Applets][7][Applets][13][Configuration]
-PreloadWeight=70
-
 [Containments][2][Applets][7][Applets][14]
 immutability=1
 plugin=org.kde.plasma.devicenotifier
-
-[Containments][2][Applets][7][Applets][14][Configuration]
-PreloadWeight=100
 
 [Containments][2][Applets][7][Applets][15]
 immutability=1
@@ -723,15 +668,9 @@ plugin=org.kde.plasma.cameraindicator
 immutability=1
 plugin=org.kde.plasma.notifications
 
-[Containments][2][Applets][7][Applets][16][Configuration]
-PreloadWeight=100
-
 [Containments][2][Applets][7][Applets][17]
 immutability=1
 plugin=org.kde.plasma.keyboardindicator
-
-[Containments][2][Applets][7][Applets][17][Configuration]
-PreloadWeight=55
 
 [Containments][2][Applets][7][Applets][17][Configuration][ConfigDialog]
 DialogHeight=540
@@ -745,9 +684,6 @@ plugin=org.kde.plasma.weather
 immutability=1
 plugin=org.kde.plasma.vault
 
-[Containments][2][Applets][7][Applets][18][Configuration]
-PreloadWeight=60
-
 [Containments][2][Applets][7][Applets][18][Configuration][ConfigDialog]
 DialogHeight=540
 DialogWidth=720
@@ -755,9 +691,6 @@ DialogWidth=720
 [Containments][2][Applets][7][Applets][19]
 immutability=1
 plugin=org.kde.plasma.clipboard
-
-[Containments][2][Applets][7][Applets][19][Configuration]
-PreloadWeight=100
 
 [Containments][2][Applets][7][Applets][22]
 immutability=1
@@ -770,22 +703,13 @@ PreloadWeight=42
 immutability=1
 plugin=org.kde.plasma.networkmanagement
 
-[Containments][2][Applets][7][Applets][23][Configuration]
-PreloadWeight=100
-
 [Containments][2][Applets][7][Applets][24]
 immutability=1
 plugin=org.kde.plasma.brightness
 
-[Containments][2][Applets][7][Applets][24][Configuration]
-PreloadWeight=5
-
 [Containments][2][Applets][7][Applets][25]
 immutability=1
 plugin=org.kde.plasma.battery
-
-[Containments][2][Applets][7][Applets][25][Configuration]
-PreloadWeight=100
 
 [Containments][2][Applets][7][Applets][25][Configuration][General]
 showPercentage=true
@@ -794,15 +718,9 @@ showPercentage=true
 immutability=1
 plugin=org.kde.plasma.mediacontroller
 
-[Containments][2][Applets][7][Applets][53][Configuration]
-PreloadWeight=0
-
 [Containments][2][Applets][7][Applets][86]
 immutability=1
 plugin=org.kde.kdeconnect
-
-[Containments][2][Applets][7][Applets][86][Configuration]
-PreloadWeight=100
 
 [Containments][2][Applets][7][Applets][9]
 immutability=1
@@ -819,9 +737,6 @@ displayStyle=LabelOverFlag
 DialogHeight=1058
 DialogWidth=1800
 
-[Containments][2][Applets][7][Configuration]
-PreloadWeight=100
-
 [Containments][2][Applets][7][General]
 extraItems=org.kde.plasma.keyboardlayout,org.kde.plasma.bluetooth,org.kde.plasma.printmanager,org.kde.plasma.volume,org.kde.plasma.manage-inputmethod,org.kde.plasma.mediacontroller,org.kde.plasma.brightness,org.kde.plasma.battery,org.kde.kscreen,org.kde.plasma.devicenotifier,org.kde.plasma.networkmanagement,org.kde.plasma.cameraindicator,org.kde.plasma.notifications,org.kde.plasma.keyboardindicator,org.kde.plasma.vault,org.kde.plasma.clipboard,org.kde.kdeconnect,org.kde.plasma.weather
 iconSpacing=1
@@ -833,8 +748,7 @@ immutability=1
 plugin=org.kde.plasma.colorpicker
 
 [Containments][2][Applets][79][Configuration]
-PreloadWeight=100
-popupHeight=324
+popupHeight=325
 popupWidth=324
 
 [Containments][2][Applets][79][Configuration][ConfigDialog]
@@ -844,7 +758,7 @@ DialogWidth=720
 [Containments][2][Applets][79][Configuration][General]
 compactPreviewCount=3
 defaultFormat=#rrggbb
-history=#9966cc,#f4ab3f,#f4abba,#9799a5,#ed9eff,#58bc49,#1a5d59,#1a2b2f,#a17225
+history=#fafafa,#9966cc,#f4ab3f,#f4abba,#9799a5,#ed9eff,#58bc49,#1a5d59,#1a2b2f
 
 [Containments][2][Applets][83]
 immutability=1
@@ -858,7 +772,7 @@ plugin=org.kde.plasma.quicklaunch
 launcherUrls=file:///usr/share/applications/org.kde.plasma.emojier.desktop
 
 [Containments][2][General]
-AppletOrder=104;118;116;21;57;58;60;79;99;113;83;119;120;7
+AppletOrder=193;118;116;21;57;58;60;79;99;113;83;119;120;7
 
 [ScreenMapping]
 itemsOnDisabledScreens=

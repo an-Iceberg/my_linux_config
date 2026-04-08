@@ -112,7 +112,7 @@
     {
       // Separator of categories
       "type": "custom",
-      "format": "{#magenta}╭────────⟨ {#cyan}{#3}Software{#0}{#magenta} ⟩ 🩷 🪻 🦋 🌸 🎀 💮 ✨"
+      "format": "\n{#magenta}╭────────⟨ {#cyan}{#3}Software{#0}{#magenta} ⟩ 🩷 🪻 🦋 🌸 🎀 💮 ✨"
     },
     {
       "type": "bios",
@@ -162,7 +162,7 @@
     {
       // Separator of categories
       "type": "custom",
-      "format": "{#magenta}╭────────( {#cyan}{#3}Themes & Customisation{#0}{#magenta} ) 🩷 🪻 🦋 🌸 🎀 💮 ✨"
+      "format": "\n{#magenta}╭────────( {#cyan}{#3}Themes & Customisation{#0}{#magenta} ) 🩷 🪻 🦋 🌸 🎀 💮 ✨"
     },
     // Todo: split into terminal and terminal multiplexer (alacritty and zellij)
     // {
@@ -228,7 +228,7 @@
     {
       // Separator of categories
       "type": "custom",
-      "format": "{#magenta}╭────────{{ {#cyan}{#3}Development{#0}{#magenta} } 🩷 🪻 🦋 🌸 🎀 💮 ✨"
+      "format": "\n{#magenta}╭────────{{ {#cyan}{#3}Development{#0}{#magenta} } 🩷 🪻 🦋 🌸 🎀 💮 ✨"
     },
     {
       "type": "command",
@@ -256,6 +256,12 @@
     },
     {
       "type": "command",
+      "key": "├─{{ {#38;5;171}just{#magenta} }",
+      "text": "just --version",
+      "format": "{}"
+    },
+    {
+      "type": "command",
       "key": "├─{{ {#38;5;171}Zed{#magenta} }",
       "text": "zeditor --version | cut -d' ' -f1,2",
       "format": "{}"
@@ -275,7 +281,7 @@
     {
       // Separator of categories
       "type": "custom",
-      "format": "✨ 💮 🎀 🌸 🦋 🪻 💙 🩷 🤍 🩷 💙 🪻🦋 🌸 🎀 💮 ✨" // ✨ 💮 🎀 🌸 🦋 🪻 💙 🩷 🤍 🩷 💙 🪻🦋 🌸 🎀 💮 ✨
+      "format": "\n✨ 💮 🎀 🌸 🦋 🪻 💙 🩷 🤍 🩷 💙 🪻🦋 🌸 🎀 💮 ✨" // ✨ 💮 🎀 🌸 🦋 🪻 💙 🩷 🤍 🩷 💙 🪻🦋 🌸 🎀 💮 ✨
     },
     {
       "type": "player",

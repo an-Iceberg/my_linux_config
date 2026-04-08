@@ -20,6 +20,8 @@ matches:
     - ";valve"
     - "Valve"
     replace: "VALVᴱ"
+  - trigger: ";hl2"
+    replace: "HλLF-LIFE²"
   - trigger: ";worry"
     replace: "ó.ò"
   - trigger: ";angy"

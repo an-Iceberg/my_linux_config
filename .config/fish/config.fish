@@ -19,6 +19,7 @@ end
 fish_add_path ~/.cargo/bin/
 fish_add_path ~/.juliaup/bin/
 fish_add_path ~/.deno/bin/
+fish_add_path ~/.bun/bin/
 
 set --universal --export EDITOR nvim
 set --universal --export BROWSER firefox
