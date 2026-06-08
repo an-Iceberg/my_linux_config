@@ -158,9 +158,10 @@ chartFace=org.kde.ksysguard.applicationstable
 showTitle=true
 
 [Face-108592549200736][org.kde.ksysguard.applicationstable][General]
+columnWidths=0.3052434456928839,0.10,0.11,0.12,0.12,0.12,0.12
 showDetails=
 showToolBar=true
-sortColumn=usage
+sortColumn=
 sortDirection=
 
 [Face-94004143388224][Appearance]

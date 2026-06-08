@@ -23,6 +23,7 @@ fish_add_path ~/.bun/bin/
 
 set --universal --export EDITOR nvim
 set --universal --export BROWSER firefox
+# set --universal --export PLUSHIE_RUST_SOURCE_PATH ~/.cargo/bin/cargo-plushie
 # set --universal --export CARGO_MOMMYS_LITTLE "girl/baby girl"
 # set --universal --export CARGO_MOMMYS_PRONOUNS "she/they"
 # set --universal --export CARGO_MOMMYS_EMOTES "❤️/💖/💗/💓/💞/💕/💝/💟/❣️/🧡/💛/💚/💙/💜/🤍/♥/✨/💮/🌸/💠"
@@ -36,3 +37,7 @@ set -q GHCUP_INSTALL_BASE_PREFIX[1]; or set GHCUP_INSTALL_BASE_PREFIX $HOME ; se
 
 starship init fish | source
 zoxide init fish | source
+
+# >>> coursier install directory >>>
+set -gx PATH "$PATH:/home/priscilla/.local/share/coursier/bin"
+# <<< coursier install directory <<<

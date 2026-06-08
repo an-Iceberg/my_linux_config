@@ -22,7 +22,7 @@ positions={"0x0":[],"1800x1125":[],"1920x1080":[]}
 [Containments][117][Wallpaper][org.kde.slideshow][General]
 Color=255,0,255
 FillMode=1
-Image=file:///home/priscilla/Pictures/wallpapers/waves26.jpg
+Image=file:///home/priscilla/Pictures/wallpapers/city113.jpg
 SlideInterval=30
 SlidePaths=/home/priscilla/Pictures/wallpapers/
 
@@ -43,7 +43,7 @@ positions={"0x0":[],"1422x800":[],"1800x1125":[],"1920x1080":[]}
 [Containments][121][Wallpaper][org.kde.slideshow][General]
 Color=255,0,255
 FillMode=1
-Image=file:///home/priscilla/Pictures/wallpapers/beach.jpeg
+Image=file:///home/priscilla/Pictures/wallpapers/winter23.jpg
 SlideInterval=30
 SlidePaths=/home/priscilla/Pictures/wallpapers/
 
@@ -62,7 +62,7 @@ positions={"0x0":[],"1422x800":[],"1920x1080":[]}
 [Containments][122][Wallpaper][org.kde.slideshow][General]
 Color=255,0,255
 FillMode=1
-Image=file:///home/priscilla/Pictures/wallpapers/train1.jpeg
+Image=file:///home/priscilla/Pictures/wallpapers/train22.jpeg
 SlideInterval=30
 SlidePaths=/home/priscilla/Pictures/wallpapers/
 
@@ -81,7 +81,7 @@ positions={"0x0":[],"1422x800":[],"1920x1080":[]}
 [Containments][123][Wallpaper][org.kde.slideshow][General]
 Color=255,0,255
 FillMode=1
-Image=file:///home/priscilla/Pictures/wallpapers/street67.jpg
+Image=file:///home/priscilla/Pictures/wallpapers/abstract65.jpg
 SlideInterval=30
 SlidePaths=/home/priscilla/Pictures/wallpapers/
 
@@ -251,13 +251,6 @@ plugin=org.kde.plasma.quicklaunch
 [Containments][131][Applets][152][Configuration][General]
 launcherUrls=file:///usr/share/applications/net.lutris.Lutris.desktop
 
-[Containments][131][Applets][154]
-immutability=1
-plugin=org.kde.plasma.quicklaunch
-
-[Containments][131][Applets][154][Configuration][General]
-launcherUrls=file:///usr/share/applications/io.github.Qalculate.qalculate-qt.desktop
-
 [Containments][131][Applets][156]
 immutability=1
 plugin=org.kde.plasma.quicklaunch
@@ -279,33 +272,12 @@ plugin=org.kde.plasma.quicklaunch
 [Containments][131][Applets][158][Configuration][General]
 launcherUrls=file:///usr/share/applications/org.kde.kdenlive.desktop
 
-[Containments][131][Applets][159]
-immutability=1
-plugin=org.kde.plasma.quicklaunch
-
-[Containments][131][Applets][159][Configuration][General]
-launcherUrls=file:///usr/share/applications/lmms.desktop
-
-[Containments][131][Applets][161]
-immutability=1
-plugin=org.kde.plasma.quicklaunch
-
-[Containments][131][Applets][161][Configuration][General]
-launcherUrls=file:///usr/share/applications/audacity.desktop
-
 [Containments][131][Applets][162]
 immutability=1
 plugin=org.kde.plasma.quicklaunch
 
 [Containments][131][Applets][162][Configuration][General]
 launcherUrls=file:///usr/share/applications/fr.handbrake.ghb.desktop
-
-[Containments][131][Applets][163]
-immutability=1
-plugin=org.kde.plasma.quicklaunch
-
-[Containments][131][Applets][163][Configuration][General]
-launcherUrls=file:///usr/share/applications/org.darktable.darktable.desktop
 
 [Containments][131][Applets][164]
 immutability=1
@@ -382,7 +354,7 @@ immutability=1
 plugin=org.kde.plasma.quicklaunch
 
 [Containments][131][Applets][177][Configuration][General]
-launcherUrls=file:///usr/share/applications/anki.desktop
+launcherUrls=file:///var/lib/flatpak/exports/share/applications/net.ankiweb.Anki.desktop
 
 [Containments][131][Applets][178]
 immutability=1
@@ -476,8 +448,43 @@ plugin=org.kde.plasma.quicklaunch
 [Containments][131][Applets][200][Configuration][General]
 launcherUrls=file:///usr/share/applications/org.kde.discover.desktop
 
+[Containments][131][Applets][201]
+immutability=1
+plugin=org.kde.plasma.quicklaunch
+
+[Containments][131][Applets][201][Configuration][General]
+launcherUrls=file:///usr/share/applications/audacious.desktop
+
+[Containments][131][Applets][202]
+immutability=1
+plugin=org.kde.plasma.quicklaunch
+
+[Containments][131][Applets][202][Configuration][General]
+launcherUrls=file:///usr/share/applications/com.github.unrud.VideoDownloader.desktop
+
+[Containments][131][Applets][203]
+immutability=1
+plugin=org.kde.plasma.quicklaunch
+
+[Containments][131][Applets][203][Configuration][General]
+launcherUrls=file:///usr/share/applications/org.inkscape.Inkscape.desktop
+
+[Containments][131][Applets][204]
+immutability=1
+plugin=org.kde.plasma.quicklaunch
+
+[Containments][131][Applets][204][Configuration][General]
+launcherUrls=file:///usr/share/applications/speedcrunch.desktop
+
+[Containments][131][Applets][206]
+immutability=1
+plugin=org.kde.plasma.quicklaunch
+
+[Containments][131][Applets][206][Configuration][General]
+launcherUrls=file:///usr/share/applications/itch.desktop
+
 [Containments][131][General]
-AppletOrder=133;134;184;200;164;179;180;198;140;141;165;185;195;143;144;145;197;199;147;196;166;148;177;149;167;183;154;156;137;178;157;170;169;151;152;168;142;158;159;161;162;163;174;173;136;187
+AppletOrder=133;134;184;200;164;179;180;198;140;141;165;185;195;143;144;145;197;199;147;196;166;148;177;149;167;183;202;201;204;156;137;178;157;170;169;151;206;152;168;142;158;203;162;174;173;136;187
 
 [Containments][131][Shortcuts]
 global=
@@ -586,6 +593,14 @@ systemFavorites=lock-screen\\,logout\\,save-session\\,switch-user\\,suspend\\,hi
 useCustomButtonImage=true
 useExtraRunners=false
 
+[Containments][2][Applets][205]
+immutability=1
+plugin=org.kde.plasma.panelspacer
+
+[Containments][2][Applets][205][Configuration][General]
+expanding=false
+length=10
+
 [Containments][2][Applets][21]
 immutability=1
 plugin=org.kde.plasma.showdesktop
@@ -623,7 +638,7 @@ DialogWidth=720
 [Containments][2][Applets][60][Configuration][General]
 notificationText=
 predefinedTimers=7260
-savedAt=2026,4,7,23,8,7.044
+savedAt=2026,6,7,0,31,42.834
 showProgressBar=true
 
 [Containments][2][Applets][7]
@@ -646,6 +661,7 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][2][Applets][7][Applets][11][Configuration][General]
+currentTab=streams
 migrated=true
 
 [Containments][2][Applets][7][Applets][12]
@@ -702,6 +718,9 @@ PreloadWeight=42
 [Containments][2][Applets][7][Applets][23]
 immutability=1
 plugin=org.kde.plasma.networkmanagement
+
+[Containments][2][Applets][7][Applets][23][Configuration][General]
+currentDetailsTab=details
 
 [Containments][2][Applets][7][Applets][24]
 immutability=1
@@ -772,7 +791,7 @@ plugin=org.kde.plasma.quicklaunch
 launcherUrls=file:///usr/share/applications/org.kde.plasma.emojier.desktop
 
 [Containments][2][General]
-AppletOrder=193;118;116;21;57;58;60;79;99;113;83;119;120;7
+AppletOrder=193;118;116;21;57;58;60;79;99;205;113;83;119;120;7
 
 [ScreenMapping]
 itemsOnDisabledScreens=

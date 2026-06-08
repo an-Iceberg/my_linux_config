@@ -7,6 +7,22 @@
 // custom settings, run `zed: open default settings` from the
 // command palette (cmd-shift-p / ctrl-shift-p)
 {
+  "cli_default_open_behavior": "existing_window",
+  "outline_panel": {
+    "dock": "left"
+  },
+  "collaboration_panel": {
+    "dock": "left"
+  },
+  "agent": {
+    "dock": "right",
+    "favorite_models": [],
+    "model_parameters": []
+  },
+  "git_panel": {
+    "dock": "left"
+  },
+  "colorize_brackets": true,
   "window_decorations": "server",
   "tab_bar": {
     "show": true,
@@ -15,33 +31,51 @@
     "border_size": 1,
     "inactive_opacity": 0.8,
   },
-  "auto_indent": true,
+  "auto_indent": "syntax_aware",
   "auto_install_extensions": {
-    "catppuccin-blur": true,
+    "andromeda": true,
+    "cargo-tom": true,
     "catppuccin-icons": true,
-    "csv": true,
     "codebook": true,
+    "color-highlight": true,
+    "comment": true,
+    "csv": true,
     "deno": true,
     "discord-presence": true,
     "docker-compose": false,
     "dockerfile": true,
+    "elm": true,
     "env": true,
     "git-firefly": true,
+    "haskell": true,
     "html": true,
+    "ini": true,
     "java": true,
     "julia": true,
+    "just": true,
     "log": true,
+    "luau": true,
+    "make": true,
     "nix": true,
     "nu": true,
     "postgres-langauge-server": true,
+    "pytest-language-server": true,
     "python-requirements": true,
+    "python-snippets": true,
+    "qml": true,
     "rainbow-csv": true,
     "ruff": true,
+    "rust-and-brown": true,
     "rust-snippets": true,
+    "shades-of-purple-theme": true,
+    "slint": true,
     "sql": true,
     "svelte": true,
+    "svelte-snippets": true,
     "tera": true,
     "toml": true,
+    "typescript-snippets": true,
+    "typst": true,
     "xml": true,
   },
   "autosave": "on_focus_change",
@@ -93,6 +127,12 @@
     //     "arguments": ["-E", "additional-args"],
     //   },
     // },
+    // "tinymist": {
+    //   "settings": {
+    //     "exportPdf": "onSave",
+    //     "outputPath": "$root/$name",
+    //   },
+    // },
   },
   "tab_size": 2,
   "vim_mode": true,
@@ -120,7 +160,7 @@
   "theme": {
     "mode": "dark",
     "light": "One Light",
-    "dark": "Shades Of Purple",
+    "dark": "Synthwave84",
   },
   "telemetry": {
     "diagnostics": false,
@@ -164,7 +204,7 @@
       "hard_tabs": true,
     },
     "QML": {
-      "enable_language_server": true,
+      // "enable_language_server": true,
       "format_on_save": "off",
       // "language_servers": ["qmllls6", "qmllint"],
       // "formatter": {
@@ -177,14 +217,26 @@
     "Slint": {
       "format_on_save": "off",
     },
+    "Just": {
+      "format_on_save": "off",
+    },
+    "Kotlin": {
+      "format_on_save": "on",
+      "tab_size": 4,
+    },
+    "Elm": {
+      "format_on_save": "off",
+    },
   },
   "line_indicator_format": "long",
   "linked_edits": true,
   "profiles": {
     "presentation": {
-      "buffer_font_size": 20,
-      "ui_font_size": 18,
-      "theme": "Catppuccin Latte (Blur)",
+      "settings": {
+        "buffer_font_size": 20,
+        "ui_font_size": 18,
+        "theme": "Catppuccin Latte (Blur)",
+      },
     },
   },
   "tasks": {
@@ -203,6 +255,7 @@
     "button": true,
   },
   "project_panel": {
+    "dock": "left",
     "entry_spacing": "standard",
     "scrollbar": {
       "show": "auto",

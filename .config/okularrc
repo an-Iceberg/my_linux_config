@@ -6,26 +6,26 @@ LockSidebar=true
 ShowSidebar=false
 
 [Recent Files]
-File1[$e]=$HOME/Documents/PDF_Documents/Predictive_Analysis_Skript.pdf
+File1[$e]=$HOME/Downloads/IIS1_SSR.pdf
 File10[$e]=$HOME/Programming/github_repositories/BA_marosand_2026/main.pdf
-File2[$e]=$HOME/Documents/PDF_Documents/SCC_CheatSheet_Islikpas_HS2022.pdf
-File3[$e]=$HOME/Documents/PDF_Documents/SIGGRAPH2007_EfficientSelfShadowedRadiosityNormalMapping.pdf
-File4[$e]=$HOME/Documents/PDF_Documents/SkriptMND2.pdf
-File5[$e]=$HOME/Programming/github_repositories/ZHAW/OMCS-1.pdf
-File6[$e]=$HOME/Programming/github_repositories/ZHAW/PREAN_Skript.pdf
-File7[$e]=$HOME/Documents/PDF_Documents/ZHAW/course_materials/MKS_materials/Week1_Handout.pdf
-File8[$e]=$HOME/Downloads/Auftragsliste Samstag Einsatz Studis.pdf
-File9[$e]=$HOME/Programming/github_repositories/CV/main.pdf
-Name1[$e]=Predictive_Analysis_Skript.pdf
+File2[$e]=$HOME/Downloads/IIS2-Text2SQL-LLM-AgenticAI/Football dataset.pdf
+File3[$e]=$HOME/Downloads/IIS2-Text2SQL-LLM-AgenticAI/StatbotSwiss Dataset.pdf
+File4[$e]=$HOME/Downloads/IIS2-Text2SQL-LLM-AgenticAI/Final Project-2026.pdf
+File5[$e]=$HOME/Programming/github_repositories/ZHAW/IIS2/IIS2-Text2SQL-LLM-AgenticAI/StatbotSwiss Dataset.pdf
+File6[$e]=$HOME/Programming/github_repositories/CV/main.pdf
+File7[$e]=/run/media/priscilla/A00D-00A6/2026_06_04/unterschrift.pdf
+File8[$e]=$HOME/unterschrift.pdf
+File9[$e]=$HOME/Programming/github_repositories/BA_marosand_2026/BA_marosand_2026.pdf
+Name1[$e]=IIS1_SSR.pdf
 Name10[$e]=main.pdf
-Name2[$e]=SCC_CheatSheet_Islikpas_HS2022.pdf
-Name3[$e]=SIGGRAPH2007_EfficientSelfShadowedRadiosityNormalMapping.pdf
-Name4[$e]=SkriptMND2.pdf
-Name5[$e]=OMCS-1.pdf
-Name6[$e]=PREAN_Skript.pdf
-Name7[$e]=Week1_Handout.pdf
-Name8[$e]=Auftragsliste Samstag Einsatz Studis.pdf
-Name9[$e]=main.pdf
+Name2[$e]=Football dataset.pdf
+Name3[$e]=StatbotSwiss Dataset.pdf
+Name4[$e]=Final Project-2026.pdf
+Name5[$e]=StatbotSwiss Dataset.pdf
+Name6[$e]=main.pdf
+Name7[$e]=unterschrift.pdf
+Name8[$e]=unterschrift.pdf
+Name9[$e]=BA_marosand_2026.pdf
 
 [UiSettings]
 ColorScheme=
